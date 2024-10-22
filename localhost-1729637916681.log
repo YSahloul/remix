@@ -1,0 +1,1890 @@
+react-dom.development.js:29895 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+vapi.sdk.ts:14 Vapi not initialized. Call initializeVapi() first.
+getVapi @ vapi.sdk.ts:14
+vapi.sdk.ts:32 Cannot add listener for 'message'. Vapi instance is null.
+on @ vapi.sdk.ts:32
+Display.tsx:57 Menu state updated: {}
+Display.tsx:61 Status state updated: loading
+vapi.sdk.ts:14 Vapi not initialized. Call initializeVapi() first.
+getVapi @ vapi.sdk.ts:14
+useVapi.ts:23 Vapi instance not initialized
+(anonymous) @ useVapi.ts:23
+Display.tsx:57 Menu state updated: {}
+Display.tsx:61 Status state updated: loading
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+VM458:4 Preferred mic not found; skipping: true
+value @ VM458:4
+useVapi.ts:93 call started successfully Object
+useVapi.ts:34 Call has started
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "status-update",
+  "status": "in-progress"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Welcome to"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Welcome to our restaurant."
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process.",
+      "time": 1729637872066,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to our restaurant.",
+      "time": 1729637873555,
+      "endTime": 1729637874854.9998,
+      "secondsFromStart": 1.36,
+      "duration": 1299.999755859375,
+      "source": ""
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "How can I assist you"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "assistant"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "How can I assist you with your order today?"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "How can I assist you with your order today?"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process.",
+      "time": 1729637872066,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to our restaurant.",
+      "time": 1729637873555,
+      "endTime": 1729637874854.9998,
+      "secondsFromStart": 1.36,
+      "duration": 1299.999755859375,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729637874955,
+      "endTime": 1729637876965,
+      "secondsFromStart": 2.76,
+      "duration": 2010,
+      "source": ""
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+useVapi.ts:29 Speech has ended
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "user"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "user",
+  "transcriptType": "partial",
+  "transcript": "Testing"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "user",
+  "transcriptType": "final",
+  "transcript": "Can I save the menu, please?"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Can I save the menu, please?"
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process.",
+      "time": 1729637872066,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to our restaurant.",
+      "time": 1729637873555,
+      "endTime": 1729637874854.9998,
+      "secondsFromStart": 1.36,
+      "duration": 1299.999755859375,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729637874955,
+      "endTime": 1729637876965,
+      "secondsFromStart": 2.76,
+      "duration": 2010,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "Can I save the menu, please?",
+      "time": 1729637877455,
+      "endTime": 1729637878835,
+      "secondsFromStart": 5.26,
+      "duration": 1380
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "user"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": [
+    {
+      "id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": "{}"
+      }
+    }
+  ]
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Can I save the menu, please?"
+    },
+    {
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+      "content": "Tool Result Still Pending But Proceed Further If Possible."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process.",
+      "time": 1729637872066,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to our restaurant.",
+      "time": 1729637873555,
+      "endTime": 1729637874854.9998,
+      "secondsFromStart": 1.36,
+      "duration": 1299.999755859375,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729637874955,
+      "endTime": 1729637876965,
+      "secondsFromStart": 2.76,
+      "duration": 2010,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "Can I save the menu, please?",
+      "time": 1729637877455,
+      "endTime": 1729637878835,
+      "secondsFromStart": 5.26,
+      "duration": 1380
+    },
+    {
+      "toolCalls": [
+        {
+          "id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ],
+      "role": "tool_calls",
+      "message": "",
+      "time": 1729637881333,
+      "secondsFromStart": 6.057
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "tool-calls",
+  "toolCalls": [
+    {
+      "id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": {}
+      }
+    }
+  ],
+  "toolCallList": [
+    {
+      "id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": {}
+      }
+    }
+  ],
+  "toolWithToolCallList": [
+    {
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "description": "Fetches the restaurant menu from Square.",
+        "parameters": {
+          "type": "object",
+          "properties": {},
+          "required": []
+        }
+      },
+      "messages": [],
+      "toolCall": {
+        "id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+        "type": "function",
+        "function": {
+          "name": "fetchMenu",
+          "arguments": {}
+        }
+      }
+    }
+  ]
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Give me a"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "assistant"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Can I save the menu, please?"
+    },
+    {
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+      "content": "{\"Uncategorized\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]},{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]},{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWWKUCOGLLC\",\"name\":\"Pineapple\",\"price\":\"553\"},{\"
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Give me a moment."
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Can I save the menu, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "Give me a moment.",
+      "tool_calls": [
+        {
+          "id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+      "content": "{\"Uncategorized\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]},{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]},{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWWKUCOGLLC\",\"name\
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "user"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "Here"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " is"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " the"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " menu"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": ":\n\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "1"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " FA"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "J"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "ITA"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " N"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "ACH"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "OS"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "12"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "95"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "2"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " CH"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "voice-input",
+  "input": "Here is the menu:. 1. FAJITA NACHOS   twelve dollars and ninety five cents. 2."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "IPS"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " N"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " SAL"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "SA"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "50"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " P"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "IZ"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "Z"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "AD"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "ILLA"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "23"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "99"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " Q"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "voice-input",
+  "input": "CHIPS N SALSA   four dollars and fifty cents. 3. PIZZADILLA   twenty three dollars and ninety nine cents. 4."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "UES"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "AB"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "IR"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "RIA"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " PL"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "ATE"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+useVapi.ts:29 Speech has ended
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "13"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "98"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "5"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " FL"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "AUT"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "AS"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "11"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "75"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "6"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " SINGLE"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "voice-input",
+  "input": "QUESABIRRIA PLATE   thirteen dollars and ninety eight cents. 5. FLAUTAS   eleven dollars and seventy five cents. 6."
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " T"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "AC"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "O"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " ("
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "Various"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " options"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": ")"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "50"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " each"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "7"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " T"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "voice-input",
+  "input": "SINGLE TACO (Various options)   four dollars and fifty cents each. 7."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "IC"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "-T"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "AC"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "O"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " HOUSE"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " SPECIAL"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " ("
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "Various"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " options"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": ")"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "13"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "98"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " each"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "8"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " F"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "voice-input",
+  "input": "TIC TACO HOUSE SPECIAL (Various options)   thirteen dollars and ninety eight cents each. 8."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "RESH"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " HOME"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "-"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "MA"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "DE"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " WATER"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " ("
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "Various"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " flavors"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": ")"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "5"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "53"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " each"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "9"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " Pepsi"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "voice-input",
+  "input": "FRESH HOME MADE WATER (Various flavors)   five dollars and fifty three cents each. 9."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " Fountain"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " Drink"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " ("
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "Various"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " options"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": ")"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "2"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "77"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " each"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "Let"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " me"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " know"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " if"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " you"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " need"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " any"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " recommendations"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " or"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " assistance"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " your"
+}
+useVapi.ts:48 message Object
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": " order"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "voice-input",
+  "input": "Pepsi Fountain Drink (Various options)   two dollars and seventy seven cents each. Let me know if you need any recommendations or assistance with your order."
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Here is the menu."
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Here is the menu."
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Can I save the menu, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "Give me a moment. Here is the menu.",
+      "tool_calls": [
+        {
+          "id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+      "content": "{\"Uncategorized\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]},{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]},{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWW
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "1"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Can I save the menu, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "Give me a moment. Here is the menu.",
+      "tool_calls": [
+        {
+          "id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+      "content": "{\"Uncategorized\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]},{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]},{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWW
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "fajita nachos"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Fajita nachos 12 dollars and 9"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "fajita nachos 12 dollars and 95 cents."
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Can I save the menu, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "Give me a moment. Here is the menu.",
+      "tool_calls": [
+        {
+          "id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+      "content": "{\"Uncategorized\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]},{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]},{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWW
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "2"
+}
+useVapi.ts:48 message Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:25 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Can I save the menu, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "Give me a moment. Here is the menu.",
+      "tool_calls": [
+        {
+          "id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_sjIaWfOCNY4iMJLAYibRGr8n",
+      "content": "{\"Uncategorized\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]},{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]},{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWW
+useVapi.ts:48 message Objectconversation: (6) [{…}, {…}, {…}, {…}, {…}, {…}]messages: (11) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]messagesOpenAIFormatted: []type: "conversation-update"[[Prototype]]: Object
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+useVapi.ts:39 Call has stopped
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+useVapi.ts:29 Speech has ended
+Display.tsx:64 Rendering Display. Status: loading Menu: {}
+Display.tsx:64 Rendering Display. Status: loading Menu: {}

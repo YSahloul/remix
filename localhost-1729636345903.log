@@ -1,0 +1,2508 @@
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "How can I assist"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "How can I assist you with your order today?"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "How can I assist you with your order today?"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Hi. Name is Steven Meny, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, Steven. It's great to have you here. How can I assist you with your order today?"
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process.",
+      "time": 1729636309385,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to our restaurant.",
+      "time": 1729636310849,
+      "endTime": 1729636312228.9998,
+      "secondsFromStart": 1.28,
+      "duration": 1379.999755859375,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729636312259,
+      "endTime": 1729636314269,
+      "secondsFromStart": 2.69,
+      "duration": 2010,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "Hi. Name is Steven Meny, please.",
+      "time": 1729636314909,
+      "endTime": 1729636316449,
+      "secondsFromStart": 5.34,
+      "duration": 1540
+    },
+    {
+      "role": "bot",
+      "message": "Hello, Steven. It's great to have you here.",
+      "time": 1729636317528.9995,
+      "endTime": 1729636319569,
+      "secondsFromStart": 7.9599996,
+      "duration": 2040.00048828125,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729636319729,
+      "endTime": 1729636321769,
+      "secondsFromStart": 10.16,
+      "duration": 2040,
+      "source": ""
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Are you looking to"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "user",
+  "transcriptType": "partial",
+  "transcript": "I need to see the menu."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "user-interrupted"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "assistant"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "user",
+  "transcriptType": "final",
+  "transcript": "I need to see the menu."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "user"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Hi. Name is Steven Meny, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, Steven. It's great to have you here. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I need to see the menu."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process.",
+      "time": 1729636309385,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to our restaurant.",
+      "time": 1729636310849,
+      "endTime": 1729636312228.9998,
+      "secondsFromStart": 1.28,
+      "duration": 1379.999755859375,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729636312259,
+      "endTime": 1729636314269,
+      "secondsFromStart": 2.69,
+      "duration": 2010,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "Hi. Name is Steven Meny, please.",
+      "time": 1729636314909,
+      "endTime": 1729636316449,
+      "secondsFromStart": 5.34,
+      "duration": 1540
+    },
+    {
+      "role": "bot",
+      "message": "Hello, Steven. It's great to have you here.",
+      "time": 1729636317528.9995,
+      "endTime": 1729636319569,
+      "secondsFromStart": 7.9599996,
+      "duration": 2040.00048828125,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729636319729,
+      "endTime": 1729636321769,
+      "secondsFromStart": 10.16,
+      "duration": 2040,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "I need to see the menu.",
+      "time": 1729636322169,
+      "endTime": 1729636323309.001,
+      "secondsFromStart": 12.6,
+      "duration": 1140.0009765625
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "user"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": [
+    {
+      "id": "call_BTpULHjvpOFLZlAz45pdP09t",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": "{}"
+      }
+    }
+  ]
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Hi. Name is Steven Meny, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, Steven. It's great to have you here. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I need to see the menu."
+    },
+    {
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_BTpULHjvpOFLZlAz45pdP09t",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_BTpULHjvpOFLZlAz45pdP09t",
+      "content": "Tool Result Still Pending But Proceed Further If Possible."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process.",
+      "time": 1729636309385,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to our restaurant.",
+      "time": 1729636310849,
+      "endTime": 1729636312228.9998,
+      "secondsFromStart": 1.28,
+      "duration": 1379.999755859375,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729636312259,
+      "endTime": 1729636314269,
+      "secondsFromStart": 2.69,
+      "duration": 2010,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "Hi. Name is Steven Meny, please.",
+      "time": 1729636314909,
+      "endTime": 1729636316449,
+      "secondsFromStart": 5.34,
+      "duration": 1540
+    },
+    {
+      "role": "bot",
+      "message": "Hello, Steven. It's great to have you here.",
+      "time": 1729636317528.9995,
+      "endTime": 1729636319569,
+      "secondsFromStart": 7.9599996,
+      "duration": 2040.00048828125,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729636319729,
+      "endTime": 1729636321769,
+      "secondsFromStart": 10.16,
+      "duration": 2040,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "I need to see the menu.",
+      "time": 1729636322169,
+      "endTime": 1729636323309.001,
+      "secondsFromStart": 12.6,
+      "duration": 1140.0009765625
+    },
+    {
+      "toolCalls": [
+        {
+          "id": "call_BTpULHjvpOFLZlAz45pdP09t",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ],
+      "role": "tool_calls",
+      "message": "",
+      "time": 1729636324754,
+      "secondsFromStart": 13.092
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "tool-calls",
+  "toolCalls": [
+    {
+      "id": "call_BTpULHjvpOFLZlAz45pdP09t",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": {}
+      }
+    }
+  ],
+  "toolCallList": [
+    {
+      "id": "call_BTpULHjvpOFLZlAz45pdP09t",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": {}
+      }
+    }
+  ],
+  "toolWithToolCallList": [
+    {
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "description": "Fetches the restaurant menu from Square.",
+        "parameters": {
+          "type": "object",
+          "properties": {},
+          "required": []
+        }
+      },
+      "messages": [],
+      "toolCall": {
+        "id": "call_BTpULHjvpOFLZlAz45pdP09t",
+        "type": "function",
+        "function": {
+          "name": "fetchMenu",
+          "arguments": {}
+        }
+      }
+    }
+  ]
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Are you looking to explore our men"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Hi. Name is Steven Meny, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, Steven. It's great to have you here. How can I assist you with your order today? Are you looking to explore our men"
+    },
+    {
+      "role": "user",
+      "content": "I need to see the menu."
+    },
+    {
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_BTpULHjvpOFLZlAz45pdP09t",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_BTpULHjvpOFLZlAz45pdP09t",
+      "content": "Tool Result Still Pending But Proceed Further If Possible."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process.",
+      "time": 1729636309385,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to our restaurant.",
+      "time": 1729636310849,
+      "endTime": 1729636312228.9998,
+      "secondsFromStart": 1.28,
+      "duration": 1379.999755859375,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729636312259,
+      "endTime": 1729636314269,
+      "secondsFromStart": 2.69,
+      "duration": 2010,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "Hi. Name is Steven Meny, please.",
+      "time": 1729636314909,
+      "endTime": 1729636316449,
+      "secondsFromStart": 5.34,
+      "duration": 1540
+    },
+    {
+      "role": "bot",
+      "message": "Hello, Steven. It's great to have you here.",
+      "time": 1729636317528.9995,
+      "endTime": 1729636319569,
+      "secondsFromStart": 7.9599996,
+      "duration": 2040.00048828125,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729636319729,
+      "endTime": 1729636321769,
+      "secondsFromStart": 10.16,
+      "duration": 2040,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "I need to see the menu.",
+      "time": 1729636322169,
+      "endTime": 1729636323309.001,
+      "secondsFromStart": 12.6,
+      "duration": 1140.0009765625
+    },
+    {
+      "toolCalls": [
+        {
+          "id": "call_BTpULHjvpOFLZlAz45pdP09t",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ],
+      "role": "tool_calls",
+      "message": "",
+      "time": 1729636324754,
+      "secondsFromStart": 13.092
+    },
+    {
+      "role": "bot",
+      "message": "Are you looking to explore our men",
+      "time": 1729636322168.999,
+      "endTime": 1729636323529,
+      "secondsFromStart": 12.599999,
+      "duration": 1360.0009765625,
+      "source": ""
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "assistant"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Hi. Name is Steven Meny, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, Steven. It's great to have you here. How can I assist you with your order today? Are you looking to explore our men"
+    },
+    {
+      "role": "user",
+      "content": "I need to see the menu."
+    },
+    {
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_BTpULHjvpOFLZlAz45pdP09t",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_BTpULHjvpOFLZlAz45pdP09t",
+      "content": "{\"Uncategorized\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]},{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]},{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Uncategori
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Just a sec."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Just a sec."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Hi. Name is Steven Meny, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, Steven. It's great to have you here. How can I assist you with your order today? Are you looking to explore our men"
+    },
+    {
+      "role": "user",
+      "content": "I need to see the menu."
+    },
+    {
+      "role": "assistant",
+      "content": "Just a sec.",
+      "tool_calls": [
+        {
+          "id": "call_BTpULHjvpOFLZlAz45pdP09t",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_BTpULHjvpOFLZlAz45pdP09t",
+      "content": "{\"Uncategorized\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]},{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]},{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tama
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "user"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "Here"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " are"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " some"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " items"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " from"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " our"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " menu"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ":\n\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "1"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " F"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "Here are some items from our menu:. 1."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "aj"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ita"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Nach"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "os"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Corn"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " chips"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " jal"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ape"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ño"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " sour"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "Fajita Nachos: Corn chips, jalapeño,"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " cream"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " f"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "aj"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ita"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "12"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "95"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "2"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Chips"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "sour cream, and fajita   twelve dollars and ninety five cents. 2."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " S"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "alsa"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "50"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " P"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "izz"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ad"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "illa"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " "
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "Chips and Salsa   four dollars and fifty cents. 3. Pizzadilla:"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " flour"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " tort"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "illas"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " your"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " choice"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " filling"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+useVapi.ts:29 Speech has ended
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "23"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "99"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Q"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "3 flour tortillas with your choice of filling   twenty three dollars and ninety nine cents. 4."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ues"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ab"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ir"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ria"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Plate"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " "
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Q"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ues"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ab"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ir"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ria"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " lamb"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " cons"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "omm"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "é"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " red"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "Quesabirria Plate: 3 Quesabirria with lamb consommé,"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " onions"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " cil"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "antro"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " lime"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "13"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "98"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "5"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Fl"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "red onions, cilantro, and lime   thirteen dollars and ninety eight cents. 5."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "aut"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "as"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " "
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " chicken"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " fl"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "aut"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "as"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " lettuce"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " cheese"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "Flautas: 4 chicken flautas with lettuce,"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " sour"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " cream"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " rice"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " beans"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "11"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "75"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "6"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Single"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "cheese, sour cream, rice, and beans   eleven dollars and seventy five cents. 6."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " T"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "acos"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Various"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " options"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " including"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Al"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Pastor"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Barb"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "Single Tacos: Various options including Al Pastor,"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "aco"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "a"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " As"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ada"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " more"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "50"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " each"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "7"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Tic"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "Barbacoa, Asada, and more   four dollars and fifty cents each. 7."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "-T"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "aco"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " House"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Special"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Order"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " "
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " corn"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " tort"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "illa"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " tacos"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " cil"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "antro"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " onions"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "Tic Taco House Special: Order of 3 corn tortilla tacos with cilantro,"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " rice"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " beans"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "13"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "98"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "8"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Fresh"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "onions, rice, and beans   thirteen dollars and ninety eight cents. 8."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Home"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "-M"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "ade"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Water"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Fresh"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " homemade"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " juice"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " in"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " various"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " flavors"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "5"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "53"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " each"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "9"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Here are some items"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Pepsi"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "Fresh Home Made Water: Fresh homemade juice in various flavors   five dollars and fifty three cents each. 9."
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Fountain"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Drink"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " Pepsi"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " product"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " fountain"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " drinks"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " in"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " various"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " flavors"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "2"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "77"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " each"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": "Let"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " me"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " know"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " if"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " any"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " these"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " items"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " interest"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " you"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "Pepsi Fountain Drink: Pepsi product fountain drinks in various flavors   two dollars and seventy seven cents each. Let me know if any of these items interest you,"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Here are some items from our menu."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Hi. Name is Steven Meny, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, Steven. It's great to have you here. How can I assist you with your order today? Are you looking to explore our men"
+    },
+    {
+      "role": "user",
+      "content": "I need to see the menu."
+    },
+    {
+      "role": "assistant",
+      "content": "Just a sec.",
+      "tool_calls": [
+        {
+          "id": "call_BTpULHjvpOFLZlAz45pdP09t",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_BTpULHjvpOFLZlAz45pdP09t",
+      "content": "{\"Uncategorized\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]},{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]},{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tama
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "1."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Hi. Name is Steven Meny, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, Steven. It's great to have you here. How can I assist you with your order today? Are you looking to explore our men"
+    },
+    {
+      "role": "user",
+      "content": "I need to see the menu."
+    },
+    {
+      "role": "assistant",
+      "content": "Just a sec.",
+      "tool_calls": [
+        {
+          "id": "call_BTpULHjvpOFLZlAz45pdP09t",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_BTpULHjvpOFLZlAz45pdP09t",
+      "content": "{\"Uncategorized\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]},{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]},{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tama
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Fajita Nachos."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+useVapi.ts:39 Call has stopped
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+useVapi.ts:29 Speech has ended
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}

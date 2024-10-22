@@ -1,0 +1,1903 @@
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Nach"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "os"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "**\n"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "  "
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Description"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Corn"
+}
+ message Object
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "Fajita Nachos.      Description:"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " chips"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " jal"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ape"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ño"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " sour"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " cream"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ message Object
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "Corn, chips, jalapeño, sour cream,"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " f"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "aj"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ita"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ".\n"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "  "
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "12"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "95"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "2"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " **"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "and fajita.       Price: twelve dollars and ninety five cents. 2."
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "Ch"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ips"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " N"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " S"
+}
+ message Object
+ Received message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "alsa"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "**\n"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "  "
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "50"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " **"
+}
+ message Object
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "Chips N Salsa.      Price: four dollars and fifty cents. 3."
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "P"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "izz"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ad"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "illa"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "**\n"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "  "
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Description"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Here"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " "
+}
+ message Object
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "Pizzadilla.      Description:"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Flour"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " tort"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "illas"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " your"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " choice"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " filling"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ".\n"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "  "
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "3 Flour tortillas with your choice of filling.       Price:"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "23"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "99"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " **"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "Q"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ues"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ab"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ir"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ria"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Plate"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "**\n"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "  "
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Description"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " "
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "twenty three dollars and ninety nine cents. 4. Quesabirria Plate.      Description:"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Q"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ues"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ab"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ir"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ria"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " lamb"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " cons"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "om"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "é"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " red"
+}
+ message Object
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "3 Quesabirria with lamb consomé,"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " onions"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " cil"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "antro"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " lime"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ".\n"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "  "
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "red onions, cilantro, and lime.       Price:"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "13"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "98"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "5"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " **"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "Fl"
+}
+ message Object
+ Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Here are some items from our menu."
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "aut"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "as"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "**\n"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "  "
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Description"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " "
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "thirteen dollars and ninety eight cents. 5. Flautas.      Description:"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Chicken"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Fl"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "aut"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "as"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " lettuce"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " cheese"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "4 Chicken Flautas with lettuce,"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " sour"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " cream"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " rice"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " beans"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ".\n"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "  "
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ message Object
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "cheese, sour cream, rice, and beans.       Price:"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "11"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "75"
+}
+ message Object
+ Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Here are some items from our menu."
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, can I see the menu, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "1 moment.",
+      "tool_calls": [
+        {
+          "id": "call_ahtKGKEV5mVXrrj22aRHGdRJ",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_ahtKGKEV5mVXrrj22aRHGdRJ",
+      "content": "{\"Uncategorized\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]},{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]},{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWWKUCOGLLC\",\"name\":\"P
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "6"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " **"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "Single"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Taco"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "**\n"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "  "
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Choose"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " from"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " various"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " options"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " like"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Al"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Pastor"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Barb"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "eleven dollars and seventy five cents. 6. Single Taco.      Choose from various options like Al Pastor,"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "aco"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "a"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " As"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ada"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Red"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " f"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "aj"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ita"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " more"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ".\n"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "  "
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ message Object
+ Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "1"
+}
+ message Object
+ Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, can I see the menu, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "1 moment.",
+      "tool_calls": [
+        {
+          "id": "call_ahtKGKEV5mVXrrj22aRHGdRJ",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_ahtKGKEV5mVXrrj22aRHGdRJ",
+      "content": "{\"Uncategorized\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]},{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]},{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWWKUCOGLLC\",\"name\":\"P
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ message Object
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "Barbacoa, Asada, Red fajita, and more.       Price:"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "50"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " each"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "7"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " **"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "T"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "ic"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "-T"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "aco"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " House"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Special"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "**\n"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "  "
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Order"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " "
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " corn"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " tort"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "illa"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " tacos"
+}
+ message Object
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Rendering Display. Status: menu Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " cil"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "antro"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " onions"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "four dollars and fifty cents each. 7. Tic Taco House Special.      Order of 3 corn tortilla tacos with cilantro,"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": " rice"
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+useVapi.ts:48 message Object
+Display.tsx:27 Received message in Display: {
+  "type": "voice-input",
+  "input": "onions, rice,"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "fajita nachos."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "fajita nachos."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, can I see the menu, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "1 moment.",
+      "tool_calls": [
+        {
+          "id": "call_ahtKGKEV5mVXrrj22aRHGdRJ",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_ahtKGKEV5mVXrrj22aRHGdRJ",
+      "content": "{\"Uncategorized\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]},{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]},{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Uncategorized\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWWKUCOGLLC\",\"name\":\"P
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Description,"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Description, corn, chips,"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Description, corn, chips, jalapeno, sour"
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:27 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Description, corn, chips, jalapeno, sour cream, and fajita."
+}
+useVapi.ts:48 message Object
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+useVapi.ts:39 Call has stopped
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+useVapi.ts:29 Speech has ended
+Display.tsx:56 Rendering Display. Status: menu Menu: {}
+Display.tsx:56 Rendering Display. Status: menu Menu: {}

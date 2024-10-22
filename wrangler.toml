@@ -2,10 +2,15 @@
 name = "remix"
 compatibility_date = "2024-10-18"
 main = "./build/worker/index.js"
-assets = { directory = "./build/client" }
 
-# Workers Logs
-# Docs: https://developers.cloudflare.com/workers/observability/logs/workers-logs/
-# Configuration: https://developers.cloudflare.com/workers/observability/logs/workers-logs/#enable-workers-logs
-[observability]
-enabled = true
+[site]
+bucket = "./build/client"
+
+[vars]
+VAPI_WEB_TOKEN = "4687761e-1342-4929-ade7-b2c128d67bce"
+VITE_SERVER_URL = "https://vapi-cloud.yousefsahloul.workers.dev/api/webhook"
+SQUARE_APPLICATION_ID = "sandbox-sq0idb-kZ5MXyaXD-Me-JniRHuTxg"
+SQUARE_ACCESS_TOKEN = "EAAAl_QWIINfCcwgwAHnUGKvlJSXG5VY6dzS4Wtb0Ez5YJzLHW9J6XINgJ4V7LK0"
+SQUARE_LOCATION_ID = "LZ1TAGAHPTGGB"
+
+compatibility_flags = ["nodejs_compat"]

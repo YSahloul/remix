@@ -1,0 +1,982 @@
+ Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Vapi not initialized. Call initializeVapi() first.
+getVapi @ vapi.sdk.ts:11
+ Cannot add listener for 'message'. Vapi instance is null.
+on @ vapi.sdk.ts:25
+ Menu state updated: {}
+ Status state updated: loading
+ Vapi not initialized. Call initializeVapi() first.
+getVapi @ vapi.sdk.ts:11
+ Vapi instance not initialized
+(anonymous) @ useVapi.ts:20
+ Menu state updated: {}
+ Status state updated: loading
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Preferred mic not found; skipping: true
+value @ unknown
+ call started successfully Object
+ Call has started
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "status-update",
+  "status": "in-progress"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Welcome to"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Welcome to our restaurant."
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process.",
+      "time": 1729637999508,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to our restaurant.",
+      "time": 1729638001026,
+      "endTime": 1729638002325.9998,
+      "secondsFromStart": 1.36,
+      "duration": 1299.999755859375,
+      "source": ""
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "How can I assist you"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "assistant"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "How can I assist you with your order today?"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "How can I assist you with your order today?"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process.",
+      "time": 1729637999508,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to our restaurant.",
+      "time": 1729638001026,
+      "endTime": 1729638002325.9998,
+      "secondsFromStart": 1.36,
+      "duration": 1299.999755859375,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729638002416,
+      "endTime": 1729638004426,
+      "secondsFromStart": 2.75,
+      "duration": 2010,
+      "source": ""
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Speech has ended
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "transcript",
+  "role": "user",
+  "transcriptType": "partial",
+  "transcript": "Yes."
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "user"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "user"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "user"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "Great"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "!"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Would"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " you"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " like"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " to"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " see"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " the"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " menu"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " first"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " or"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " do"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " you"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " already"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " know"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " what"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " you"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "'d"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " like"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " to"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " order"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "?"
+}
+ message Object
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "Great! Would you like to see the menu first or do you already know what you'd like to order?"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "transcript",
+  "role": "user",
+  "transcriptType": "partial",
+  "transcript": "Yes. Thank you. May you please"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "transcript",
+  "role": "user",
+  "transcriptType": "final",
+  "transcript": "Yes. Can I see a minute, please?"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Can I see a minute, please?"
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process.",
+      "time": 1729637999508,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to our restaurant.",
+      "time": 1729638001026,
+      "endTime": 1729638002325.9998,
+      "secondsFromStart": 1.36,
+      "duration": 1299.999755859375,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729638002416,
+      "endTime": 1729638004426,
+      "secondsFromStart": 2.75,
+      "duration": 2010,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "Yes. Can I see a minute, please?",
+      "time": 1729638002686,
+      "endTime": 1729638006786,
+      "secondsFromStart": 3.02,
+      "duration": 4100
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "user"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": "Of"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " course"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": "!"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " Take"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " your"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " time"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " to"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " look"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " through"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " the"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " menu"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ message Object
+ Rendering Display. Status: loading Menu: {}
+ Rendering Display. Status: loading Menu: {}
+ Received message in Display: {
+  "type": "voice-input",
+  "input": "Of course! Take your time to look through the menu,"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " let"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " me"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " know"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " if"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " you"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " have"
+}
+ message Object
+ Received message in Display: {
+  "type": "model-output",
+  "output": " any"
+}
+ message Object
+Display.tsx:24 Received message in Display: {
+  "type": "model-output",
+  "output": " questions"
+}
+useVapi.ts:48 message Object
+Display.tsx:24 Received message in Display: {
+  "type": "model-output",
+  "output": " or"
+}
+useVapi.ts:48 message Object
+Display.tsx:24 Received message in Display: {
+  "type": "model-output",
+  "output": " need"
+}
+useVapi.ts:48 message Object
+Display.tsx:24 Received message in Display: {
+  "type": "model-output",
+  "output": " any"
+}
+useVapi.ts:48 message Object
+Display.tsx:24 Received message in Display: {
+  "type": "model-output",
+  "output": " recommendations"
+}
+useVapi.ts:48 message Object
+Display.tsx:24 Received message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+useVapi.ts:48 message Object
+Display.tsx:24 Received message in Display: {
+  "type": "voice-input",
+  "input": "and let me know if you have any questions or need any recommendations."
+}
+useVapi.ts:48 message Object
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:24 Received message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+useVapi.ts:48 message {type: 'speech-update', status: 'started', role: 'assistant'}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:24 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Of"
+}
+useVapi.ts:48 message {type: 'transcript', role: 'assistant', transcriptType: 'partial', transcript: 'Of'}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:24 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Of course."
+}
+useVapi.ts:48 message {type: 'transcript', role: 'assistant', transcriptType: 'final', transcript: 'Of course.'}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:24 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Can I see a minute, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process.",
+      "time": 1729637999508,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to our restaurant.",
+      "time": 1729638001026,
+      "endTime": 1729638002325.9998,
+      "secondsFromStart": 1.36,
+      "duration": 1299.999755859375,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729638002416,
+      "endTime": 1729638004426,
+      "secondsFromStart": 2.75,
+      "duration": 2010,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "Yes. Can I see a minute, please?",
+      "time": 1729638002686,
+      "endTime": 1729638006786,
+      "secondsFromStart": 3.02,
+      "duration": 4100
+    },
+    {
+      "role": "bot",
+      "message": "Of course.",
+      "time": 1729638008026.001,
+      "endTime": 1729638008766,
+      "secondsFromStart": 8.360001,
+      "duration": 739.9990234375,
+      "source": ""
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+useVapi.ts:48 message {type: 'conversation-update', conversation: Array(4), messages: Array(5), messagesOpenAIFormatted: Array(0)}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:24 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Take your time to look at"
+}
+useVapi.ts:48 message {type: 'transcript', role: 'assistant', transcriptType: 'partial', transcript: 'Take your time to look at'}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:24 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Take your time to look through the menu and let me"
+}
+useVapi.ts:48 message {type: 'transcript', role: 'assistant', transcriptType: 'partial', transcript: 'Take your time to look through the menu and let me'}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:24 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Take your time to look through the menu and let me know if you have any questions."
+}
+useVapi.ts:48 message {type: 'transcript', role: 'assistant', transcriptType: 'partial', transcript: 'Take your time to look through the menu and let me know if you have any questions.'}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:24 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "partial",
+  "transcript": "Take your time to look through the menu and let me know if you have any questions or need any"
+}
+useVapi.ts:48 message {type: 'transcript', role: 'assistant', transcriptType: 'partial', transcript: 'Take your time to look through the menu and let me know if you have any questions or need any'}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:24 Received message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "assistant"
+}
+useVapi.ts:48 message {type: 'speech-update', status: 'stopped', role: 'assistant'}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:24 Received message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Take your time to look through the menu and let me know if you have any questions or need any recommendations."
+}
+useVapi.ts:48 message {type: 'transcript', role: 'assistant', transcriptType: 'final', transcript: 'Take your time to look through the menu and let me…u have any questions or need any recommendations.'}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:24 Received message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to our restaurant. How can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Can I see a minute, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. Take your time to look through the menu and let me know if you have any questions or need any recommendations."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process.",
+      "time": 1729637999508,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to our restaurant.",
+      "time": 1729638001026,
+      "endTime": 1729638002325.9998,
+      "secondsFromStart": 1.36,
+      "duration": 1299.999755859375,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "How can I assist you with your order today?",
+      "time": 1729638002416,
+      "endTime": 1729638004426,
+      "secondsFromStart": 2.75,
+      "duration": 2010,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "Yes. Can I see a minute, please?",
+      "time": 1729638002686,
+      "endTime": 1729638006786,
+      "secondsFromStart": 3.02,
+      "duration": 4100
+    },
+    {
+      "role": "bot",
+      "message": "Of course.",
+      "time": 1729638008026.001,
+      "endTime": 1729638008766,
+      "secondsFromStart": 8.360001,
+      "duration": 739.9990234375,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "Take your time to look through the menu and let me know if you have any questions or need any recommendations.",
+      "time": 1729638008986,
+      "endTime": 1729638013326,
+      "secondsFromStart": 9.32,
+      "duration": 4340,
+      "source": ""
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+useVapi.ts:48 message {type: 'conversation-update', conversation: Array(4), messages: Array(6), messagesOpenAIFormatted: Array(0)}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+useVapi.ts:29 Speech has ended
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+useVapi.ts:39 Call has stopped
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
+Display.tsx:60 Rendering Display. Status: loading Menu: {}
