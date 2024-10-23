@@ -66,8 +66,15 @@ export async function fetchMenu(bindings: Bindings): Promise<CategorizedMenu> {
       }
     });
 
-    console.log("Categorized menu:", JSON.stringify(categorizedMenu, null, 2));
-    return categorizedMenu;
+    // Ensure we only return the three main categories
+    const finalMenu: CategorizedMenu = {
+      Starters: categorizedMenu['Starters'] || [],
+      'Main Menu': categorizedMenu['Main Menu'] || [],
+      Drinks: categorizedMenu['Drinks'] || []
+    };
+
+    console.log("Categorized menu:", JSON.stringify(finalMenu, null, 2));
+    return finalMenu;
   } catch (error) {
     console.error('Error fetching menu from Square:', error);
     throw error;

@@ -12,13 +12,13 @@ export const assistant: CreateAssistantDTO = {
         content: `You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:
 
 1. Always start by fetching the menu using the fetchMenu function.
-2. When discussing specific menu items, use the fetchImages function to retrieve and display images.
-3. After fetching an image, inform the user that an image has been displayed. Do not read out or mention the image URL.
+2. When discussing specific menu items, use the displayImages function to show images to the user.
+3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.
 4. Make recommendations based on user preferences and answer specific questions about menu items.
 5. Be friendly and helpful in guiding the user through the ordering process.
 6. The menu will be displayed to the user automatically, so you don't need to list all items.
 
-Remember to use the fetchImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.`
+Remember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.`
       }
     ],
     tools: [
@@ -37,15 +37,15 @@ Remember to use the fetchImages function whenever you're discussing a specific m
       {
         type: "function",
         function: {
-          name: "fetchImages",
-          description: "Fetches images for specified menu items.",
+          name: "displayImages",
+          description: "Displays images for specified menu items to the user.",
           parameters: {
             type: "object",
             properties: {
               itemIds: {
                 type: "array",
                 items: { type: "string" },
-                description: "Array of item IDs to fetch images for",
+                description: "Array of item IDs to display images for",
               },
             },
             required: ["itemIds"],
@@ -73,6 +73,23 @@ Remember to use the fetchImages function whenever you're discussing a specific m
               },
             },
             required: ["items"],
+          },
+        },
+      },
+      {
+        type: "function",
+        function: {
+          name: "selectCategory",
+          description: "Selects a menu category to display.",
+          parameters: {
+            type: "object",
+            properties: {
+              category: {
+                type: "string",
+                description: "The category to display. Must be one of: Starters, Main Menu, or Drinks."
+              },
+            },
+            required: ["category"],
           },
         },
       },

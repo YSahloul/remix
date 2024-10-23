@@ -1,7 +1,7 @@
 import { ToolCallsPayload, ToolCallsMessageResponse, ToolCallResult, ToolCall } from "../types/vapi.types";
 import { Bindings } from "../types/hono.types";
 import { fetchMenu } from "../tools/fetchMenu";
-import { fetchImages, MenuItemImage } from "../tools/fetchImages";
+import { getImageUrlsById } from "../data/images";
 
 // Custom JSON serializer to handle BigInt
 const jsonSerializer = (key: string, value: any) => {
@@ -33,7 +33,7 @@ async function handleToolCall(toolCall: ToolCall, bindings: Bindings): Promise<T
       case 'fetchMenu':
         try {
           const menu = await fetchMenu(bindings);
-          console.log("Menu fetched successfully:", JSON.stringify(menu, jsonSerializer, 2));
+          console.log("Menu fetched successfully:", JSON.stringify(menu, null, 2));
           return {
             name: toolCall.function.name,
             toolCallId: toolCall.id,
@@ -48,23 +48,60 @@ async function handleToolCall(toolCall: ToolCall, bindings: Bindings): Promise<T
           };
         }
 
-      case 'fetchImages':
+      case 'displayImages':
         try {
-          // Remove JSON.parse and directly access the arguments
-          const { itemIds } = toolCall.function.arguments as { itemIds: string[] };
-          const images: MenuItemImage[] = await fetchImages(bindings, itemIds);
-          console.log("Images fetched successfully:", JSON.stringify(images));
+          let itemIds: string[] = [];
+          if (typeof toolCall.function.arguments === 'string') {
+            const args = JSON.parse(toolCall.function.arguments);
+            itemIds = Array.isArray(args.itemIds) ? args.itemIds : [];
+          } else if (typeof toolCall.function.arguments === 'object' && toolCall.function.arguments !== null) {
+            itemIds = Array.isArray(toolCall.function.arguments.itemIds) ? toolCall.function.arguments.itemIds : [];
+          }
+          
+          console.log("Displaying images for itemIds:", itemIds);
+          const imageUrls = getImageUrlsById(itemIds);
+          console.log("Retrieved image URLs:", imageUrls);
           return {
             name: toolCall.function.name,
             toolCallId: toolCall.id,
-            result: JSON.stringify(images)
+            result: JSON.stringify(imageUrls)
           };
         } catch (error) {
-          console.error(`Error in fetchImages:`, error);
+          console.error(`Error in displayImages:`, error);
           return {
             name: toolCall.function.name,
             toolCallId: toolCall.id,
-            error: error instanceof Error ? error.message : 'Unknown error occurred'
+            error: error instanceof Error ? error.message : 'Error displaying images'
+          };
+        }
+
+      case 'createOrder':
+        // ... existing createOrder case ...
+
+      case 'selectCategory':
+        try {
+          let category: string;
+          if (typeof toolCall.function.arguments === 'string') {
+            const args = JSON.parse(toolCall.function.arguments);
+            category = args.category;
+          } else if (typeof toolCall.function.arguments === 'object' && toolCall.function.arguments !== null) {
+            category = toolCall.function.arguments.category;
+          } else {
+            throw new Error('Invalid arguments for selectCategory');
+          }
+
+          console.log("Selecting category:", category);
+          return {
+            name: toolCall.function.name,
+            toolCallId: toolCall.id,
+            result: JSON.stringify({ category })
+          };
+        } catch (error) {
+          console.error(`Error in selectCategory:`, error);
+          return {
+            name: toolCall.function.name,
+            toolCallId: toolCall.id,
+            error: error instanceof Error ? error.message : 'Error selecting category'
           };
         }
 

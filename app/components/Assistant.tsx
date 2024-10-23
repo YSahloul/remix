@@ -14,7 +14,7 @@ function Assistant({ initialMenu }: AssistantProps) {
   return (
     <>
       <div className="chat-history">
-        <Display initialMenu={initialMenu} />
+        <Display initialMenu={initialMenu || {}} />
       </div>
       <div className="user-input">
         <AssistantButton
