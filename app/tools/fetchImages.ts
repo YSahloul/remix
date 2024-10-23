@@ -1,6 +1,6 @@
 import { Bindings } from '../types/hono.types';
 
-interface MenuItemImage {
+export interface MenuItemImage {
   id: string;
   imageUrl: string;
 }
@@ -42,7 +42,7 @@ export async function fetchImages(bindings: Bindings, itemIds: string[]): Promis
       })) ?? [];
 
     console.log(`Fetched images for ${itemImages.length} items`);
-    console.log('Item images:', JSON.stringify(itemImages, null, 2));
+    console.log('Item images:', JSON.stringify(itemImages));
     return itemImages;
   } catch (error) {
     console.error('Error fetching images from Square:', error);

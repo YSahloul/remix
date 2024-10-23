@@ -9,7 +9,16 @@ export const assistant: CreateAssistantDTO = {
     messages: [
       {
         role: "system",
-        content: "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. You can fetch the menu, suggest items, and help place orders. Be friendly and helpful in guiding the user through the ordering process."
+        content: `You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:
+
+1. Always start by fetching the menu using the fetchMenu function.
+2. When discussing specific menu items, use the fetchImages function to retrieve and display images.
+3. After fetching an image, inform the user that an image has been displayed. Do not read out or mention the image URL.
+4. Make recommendations based on user preferences and answer specific questions about menu items.
+5. Be friendly and helpful in guiding the user through the ordering process.
+6. The menu will be displayed to the user automatically, so you don't need to list all items.
+
+Remember to use the fetchImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.`
       }
     ],
     tools: [
@@ -73,6 +82,6 @@ export const assistant: CreateAssistantDTO = {
     provider: "11labs",
     voiceId: "paula",
   },
-  firstMessage: "Welcome to our restaurant! How can I assist you with your order today?",
+  firstMessage: "Welcome to Tic-Taco! I'll fetch our latest menu for you. How can I assist you with your order today?",
   serverUrl: process.env.VAPI_SERVER_URL,
 };
