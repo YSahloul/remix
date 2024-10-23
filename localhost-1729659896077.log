@@ -1,0 +1,5128 @@
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Single"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " T"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "acos"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Ass"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "orted"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " options"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " including"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Al"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Pastor"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Barb"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: eleven dollars and seventy five cents. 4. Single Tacos   Assorted options including Al Pastor,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aco"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "a"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Su"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "adero"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " As"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ada"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " more"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Barbacoa, Suadero, Asada, and more."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "50"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " each"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "5"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Tic"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "-T"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aco"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " House"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Special"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Order"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " "
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " corn"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " tort"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "illa"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " tacos"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cil"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "antro"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " onions"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: four dollars and fifty cents each. 5. Tic Taco House Special   Order of 3 corn tortilla tacos with cilantro,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " rice"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " beans"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "onions, rice, and beans. Price:"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "13"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "98"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "Dr"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "inks"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "1"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Fresh"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Home"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "-M"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ade"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Water"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Choose"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " from"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " a"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " variety"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " fresh"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " homemade"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " juices"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "thirteen dollars and ninety eight cents. Drinks:. 1. Fresh Home Made Water   Choose from a variety of fresh homemade juices."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "5"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "53"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: five dollars and fifty three cents"
+}
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Here's a quick overview of our menu."
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "content": "This will just take a sec. Here's a quick overview of our menu.",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Starters,"
+}
+ Session is active, morphing the ball
+ Morphing the ball with volume: 0.5295521564828543
+ message Object
+ Processing message in Display: {
+  "type": "status-update",
+  "status": "in-progress"
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Welcome to TikTok. I'll fetch our latest menu for you."
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+      "time": 1729659798256,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+      "time": 1729659800110,
+      "endTime": 1729659803060,
+      "secondsFromStart": 1.52,
+      "duration": 2950,
+      "source": ""
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Can I assist you with your order today?"
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+      "time": 1729659798256,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+      "time": 1729659800110,
+      "endTime": 1729659803060,
+      "secondsFromStart": 1.52,
+      "duration": 2950,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "Can I assist you with your order today?",
+      "time": 1729659803219.9995,
+      "endTime": 1729659804900,
+      "secondsFromStart": 4.6299996,
+      "duration": 1680.00048828125,
+      "source": ""
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "user"
+}
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "user",
+  "transcriptType": "final",
+  "transcript": "I still made money."
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+      "time": 1729659798256,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+      "time": 1729659800110,
+      "endTime": 1729659803060,
+      "secondsFromStart": 1.52,
+      "duration": 2950,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "Can I assist you with your order today?",
+      "time": 1729659803219.9995,
+      "endTime": 1729659804900,
+      "secondsFromStart": 4.6299996,
+      "duration": 1680.00048828125,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "I still made money.",
+      "time": 1729659805750,
+      "endTime": 1729659806880,
+      "secondsFromStart": 7.16,
+      "duration": 1130
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "user"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": [
+    {
+      "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": "{}"
+      }
+    }
+  ]
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "Tool Result Still Pending But Proceed Further If Possible."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+      "time": 1729659798256,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+      "time": 1729659800110,
+      "endTime": 1729659803060,
+      "secondsFromStart": 1.52,
+      "duration": 2950,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "Can I assist you with your order today?",
+      "time": 1729659803219.9995,
+      "endTime": 1729659804900,
+      "secondsFromStart": 4.6299996,
+      "duration": 1680.00048828125,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "I still made money.",
+      "time": 1729659805750,
+      "endTime": 1729659806880,
+      "secondsFromStart": 7.16,
+      "duration": 1130
+    },
+    {
+      "toolCalls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ],
+      "role": "tool_calls",
+      "message": "",
+      "time": 1729659809845,
+      "secondsFromStart": 7.473
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ Processing message in Display: {
+  "type": "tool-calls",
+  "toolCalls": [
+    {
+      "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": {}
+      }
+    }
+  ],
+  "toolCallList": [
+    {
+      "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": {}
+      }
+    }
+  ],
+  "toolWithToolCallList": [
+    {
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "description": "Fetches the restaurant menu from Square.",
+        "parameters": {
+          "type": "object",
+          "properties": {},
+          "required": []
+        }
+      },
+      "messages": [],
+      "toolCall": {
+        "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+        "type": "function",
+        "function": {
+          "name": "fetchMenu",
+          "arguments": {}
+        }
+      }
+    }
+  ]
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "This will just take a sec."
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "content": "This will just take a sec.",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "user"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "Here"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "'s"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " a"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " quick"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " overview"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " our"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " menu"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":\n\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "Start"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ers"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "1"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " F"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Here's a quick overview of our menu:. Starters:. 1."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aj"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ita"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Nach"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "os"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Corn"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " chips"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " jal"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ape"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ño"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " sour"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Fajita Nachos   Corn chips, jalapeño,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cream"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " f"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aj"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ita"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "12"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "95"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "2"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Chips"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "sour cream, and fajita. Price: twelve dollars and ninety five cents. 2."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " S"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "alsa"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Regular"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Chips and Salsa   Regular. Price:"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "50"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "Main"
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Menu"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "1"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " P"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "izz"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ad"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "illa"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Flour"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " tort"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "illas"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " red"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " onions"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cil"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "four dollars and fifty cents. Main Menu:. 1. Pizzadilla   Flour tortillas with red onions,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "antro"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " sour"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cream"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " traditional"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " green"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " spicy"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " sauce"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "cilantro, sour cream, and traditional green spicy sauce."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "23"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "99"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "2"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Q"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ues"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ab"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ir"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ria"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Plate"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Lamb"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "/"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "cons"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "om"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "é"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " red"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: $twenty three point nine nine. 2. Quesabirria Plate   Lamb/consomé,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " onions"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cil"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "antro"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " lime"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "red onions, cilantro, and lime."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "13"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "98"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Fl"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aut"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "as"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Chicken"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " fl"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aut"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "as"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " lettuce"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cheese"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: thirteen dollars and ninety eight cents. 3. Flautas   Chicken flautas with lettuce,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " sour"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cream"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " rice"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " beans"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "cheese, sour cream, rice, and beans."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "11"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "75"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Single"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " T"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "acos"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Ass"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "orted"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " options"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " including"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Al"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Pastor"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Barb"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: eleven dollars and seventy five cents. 4. Single Tacos   Assorted options including Al Pastor,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aco"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "a"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Su"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "adero"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " As"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ada"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " more"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Barbacoa, Suadero, Asada, and more."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "50"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " each"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "5"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Tic"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "-T"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aco"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " House"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Special"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Order"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " "
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " corn"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " tort"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "illa"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " tacos"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cil"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "antro"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " onions"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: four dollars and fifty cents each. 5. Tic Taco House Special   Order of 3 corn tortilla tacos with cilantro,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " rice"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " beans"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "onions, rice, and beans. Price:"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "13"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "98"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "Dr"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "inks"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "1"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Fresh"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Home"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "-M"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ade"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Water"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Choose"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " from"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " a"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " variety"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " fresh"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " homemade"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " juices"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "thirteen dollars and ninety eight cents. Drinks:. 1. Fresh Home Made Water   Choose from a variety of fresh homemade juices."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "5"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "53"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: five dollars and fifty three cents"
+}
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Here's a quick overview of our menu."
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "content": "This will just take a sec. Here's a quick overview of our menu.",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Starters,"
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "content": "This will just take a sec. Here's a quick overview of our menu.",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\
+ Session is active, morphing the ball
+ Morphing the ball with volume: 0.2654047803689982
+ Session is active, morphing the ball
+ Morphing the ball with volume: 0.21081851067789195
+ Session is active, morphing the ball
+ Morphing the ball with volume: 0.00042063822965346197
+ message Object
+ Processing message in Display: {
+  "type": "status-update",
+  "status": "in-progress"
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Welcome to TikTok. I'll fetch our latest menu for you."
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+      "time": 1729659798256,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+      "time": 1729659800110,
+      "endTime": 1729659803060,
+      "secondsFromStart": 1.52,
+      "duration": 2950,
+      "source": ""
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Can I assist you with your order today?"
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+      "time": 1729659798256,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+      "time": 1729659800110,
+      "endTime": 1729659803060,
+      "secondsFromStart": 1.52,
+      "duration": 2950,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "Can I assist you with your order today?",
+      "time": 1729659803219.9995,
+      "endTime": 1729659804900,
+      "secondsFromStart": 4.6299996,
+      "duration": 1680.00048828125,
+      "source": ""
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "user"
+}
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "user",
+  "transcriptType": "final",
+  "transcript": "I still made money."
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+      "time": 1729659798256,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+      "time": 1729659800110,
+      "endTime": 1729659803060,
+      "secondsFromStart": 1.52,
+      "duration": 2950,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "Can I assist you with your order today?",
+      "time": 1729659803219.9995,
+      "endTime": 1729659804900,
+      "secondsFromStart": 4.6299996,
+      "duration": 1680.00048828125,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "I still made money.",
+      "time": 1729659805750,
+      "endTime": 1729659806880,
+      "secondsFromStart": 7.16,
+      "duration": 1130
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "user"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": [
+    {
+      "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": "{}"
+      }
+    }
+  ]
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "Tool Result Still Pending But Proceed Further If Possible."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+      "time": 1729659798256,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+      "time": 1729659800110,
+      "endTime": 1729659803060,
+      "secondsFromStart": 1.52,
+      "duration": 2950,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "Can I assist you with your order today?",
+      "time": 1729659803219.9995,
+      "endTime": 1729659804900,
+      "secondsFromStart": 4.6299996,
+      "duration": 1680.00048828125,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "I still made money.",
+      "time": 1729659805750,
+      "endTime": 1729659806880,
+      "secondsFromStart": 7.16,
+      "duration": 1130
+    },
+    {
+      "toolCalls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ],
+      "role": "tool_calls",
+      "message": "",
+      "time": 1729659809845,
+      "secondsFromStart": 7.473
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ Processing message in Display: {
+  "type": "tool-calls",
+  "toolCalls": [
+    {
+      "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": {}
+      }
+    }
+  ],
+  "toolCallList": [
+    {
+      "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": {}
+      }
+    }
+  ],
+  "toolWithToolCallList": [
+    {
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "description": "Fetches the restaurant menu from Square.",
+        "parameters": {
+          "type": "object",
+          "properties": {},
+          "required": []
+        }
+      },
+      "messages": [],
+      "toolCall": {
+        "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+        "type": "function",
+        "function": {
+          "name": "fetchMenu",
+          "arguments": {}
+        }
+      }
+    }
+  ]
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "This will just take a sec."
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "content": "This will just take a sec.",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "user"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "Here"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "'s"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " a"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " quick"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " overview"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " our"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " menu"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":\n\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "Start"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ers"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "1"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " F"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Here's a quick overview of our menu:. Starters:. 1."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aj"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ita"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Nach"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "os"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Corn"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " chips"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " jal"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ape"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ño"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " sour"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Fajita Nachos   Corn chips, jalapeño,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cream"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " f"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aj"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ita"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "12"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "95"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "2"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Chips"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "sour cream, and fajita. Price: twelve dollars and ninety five cents. 2."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " S"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "alsa"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Regular"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Chips and Salsa   Regular. Price:"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "50"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "Main"
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Menu"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "1"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " P"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "izz"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ad"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "illa"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Flour"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " tort"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "illas"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " red"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " onions"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cil"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "four dollars and fifty cents. Main Menu:. 1. Pizzadilla   Flour tortillas with red onions,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "antro"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " sour"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cream"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " traditional"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " green"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " spicy"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " sauce"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "cilantro, sour cream, and traditional green spicy sauce."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "23"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "99"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "2"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Q"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ues"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ab"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ir"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ria"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Plate"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Lamb"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "/"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "cons"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "om"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "é"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " red"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: $twenty three point nine nine. 2. Quesabirria Plate   Lamb/consomé,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " onions"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cil"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "antro"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " lime"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "red onions, cilantro, and lime."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "13"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "98"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Fl"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aut"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "as"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Chicken"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " fl"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aut"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "as"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " lettuce"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cheese"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: thirteen dollars and ninety eight cents. 3. Flautas   Chicken flautas with lettuce,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " sour"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cream"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " rice"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " beans"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "cheese, sour cream, rice, and beans."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "11"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "75"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Single"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " T"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "acos"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Ass"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "orted"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " options"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " including"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Al"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Pastor"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Barb"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: eleven dollars and seventy five cents. 4. Single Tacos   Assorted options including Al Pastor,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aco"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "a"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Su"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "adero"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " As"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ada"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " more"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Barbacoa, Suadero, Asada, and more."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "50"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " each"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "5"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Tic"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "-T"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aco"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " House"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Special"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Order"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " "
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " corn"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " tort"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "illa"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " tacos"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cil"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "antro"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " onions"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: four dollars and fifty cents each. 5. Tic Taco House Special   Order of 3 corn tortilla tacos with cilantro,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " rice"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " beans"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "onions, rice, and beans. Price:"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "13"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "98"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "Dr"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "inks"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "1"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Fresh"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Home"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "-M"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ade"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Water"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Choose"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " from"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " a"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " variety"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " fresh"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " homemade"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " juices"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "thirteen dollars and ninety eight cents. Drinks:. 1. Fresh Home Made Water   Choose from a variety of fresh homemade juices."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "5"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "53"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: five dollars and fifty three cents"
+}
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Here's a quick overview of our menu."
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "content": "This will just take a sec. Here's a quick overview of our menu.",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Starters,"
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "content": "This will just take a sec. Here's a quick overview of our menu.",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "1."
+}
+ Session is active, morphing the ball
+ Morphing the ball with volume: 0.0003748942167935661
+ message Object
+ Processing message in Display: {
+  "type": "status-update",
+  "status": "in-progress"
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Welcome to TikTok. I'll fetch our latest menu for you."
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+      "time": 1729659798256,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+      "time": 1729659800110,
+      "endTime": 1729659803060,
+      "secondsFromStart": 1.52,
+      "duration": 2950,
+      "source": ""
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Can I assist you with your order today?"
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+      "time": 1729659798256,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+      "time": 1729659800110,
+      "endTime": 1729659803060,
+      "secondsFromStart": 1.52,
+      "duration": 2950,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "Can I assist you with your order today?",
+      "time": 1729659803219.9995,
+      "endTime": 1729659804900,
+      "secondsFromStart": 4.6299996,
+      "duration": 1680.00048828125,
+      "source": ""
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "user"
+}
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "user",
+  "transcriptType": "final",
+  "transcript": "I still made money."
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+      "time": 1729659798256,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+      "time": 1729659800110,
+      "endTime": 1729659803060,
+      "secondsFromStart": 1.52,
+      "duration": 2950,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "Can I assist you with your order today?",
+      "time": 1729659803219.9995,
+      "endTime": 1729659804900,
+      "secondsFromStart": 4.6299996,
+      "duration": 1680.00048828125,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "I still made money.",
+      "time": 1729659805750,
+      "endTime": 1729659806880,
+      "secondsFromStart": 7.16,
+      "duration": 1130
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "user"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": [
+    {
+      "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": "{}"
+      }
+    }
+  ]
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "Tool Result Still Pending But Proceed Further If Possible."
+    }
+  ],
+  "messages": [
+    {
+      "role": "system",
+      "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+      "time": 1729659798256,
+      "secondsFromStart": 0
+    },
+    {
+      "role": "bot",
+      "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+      "time": 1729659800110,
+      "endTime": 1729659803060,
+      "secondsFromStart": 1.52,
+      "duration": 2950,
+      "source": ""
+    },
+    {
+      "role": "bot",
+      "message": "Can I assist you with your order today?",
+      "time": 1729659803219.9995,
+      "endTime": 1729659804900,
+      "secondsFromStart": 4.6299996,
+      "duration": 1680.00048828125,
+      "source": ""
+    },
+    {
+      "role": "user",
+      "message": "I still made money.",
+      "time": 1729659805750,
+      "endTime": 1729659806880,
+      "secondsFromStart": 7.16,
+      "duration": 1130
+    },
+    {
+      "toolCalls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ],
+      "role": "tool_calls",
+      "message": "",
+      "time": 1729659809845,
+      "secondsFromStart": 7.473
+    }
+  ],
+  "messagesOpenAIFormatted": []
+}
+ Processing message in Display: {
+  "type": "tool-calls",
+  "toolCalls": [
+    {
+      "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": {}
+      }
+    }
+  ],
+  "toolCallList": [
+    {
+      "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": {}
+      }
+    }
+  ],
+  "toolWithToolCallList": [
+    {
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "description": "Fetches the restaurant menu from Square.",
+        "parameters": {
+          "type": "object",
+          "properties": {},
+          "required": []
+        }
+      },
+      "messages": [],
+      "toolCall": {
+        "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+        "type": "function",
+        "function": {
+          "name": "fetchMenu",
+          "arguments": {}
+        }
+      }
+    }
+  ]
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name
+ Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "This will just take a sec."
+}
+ Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "content": "This will just take a sec.",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "stopped",
+  "role": "user"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "Here"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "'s"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " a"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " quick"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " overview"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " our"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " menu"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":\n\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "Start"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ers"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "1"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " F"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Here's a quick overview of our menu:. Starters:. 1."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aj"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ita"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Nach"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "os"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Corn"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " chips"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " jal"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ape"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ño"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " sour"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Fajita Nachos   Corn chips, jalapeño,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cream"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " f"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aj"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ita"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "12"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "95"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "2"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Chips"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "sour cream, and fajita. Price: twelve dollars and ninety five cents. 2."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " S"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "alsa"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Regular"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Chips and Salsa   Regular. Price:"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "50"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "Main"
+}
+ Processing message in Display: {
+  "type": "speech-update",
+  "status": "started",
+  "role": "assistant"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Menu"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "1"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " P"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "izz"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ad"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "illa"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Flour"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " tort"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "illas"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " red"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " onions"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cil"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "four dollars and fifty cents. Main Menu:. 1. Pizzadilla   Flour tortillas with red onions,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "antro"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " sour"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cream"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " traditional"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " green"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " spicy"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " sauce"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "cilantro, sour cream, and traditional green spicy sauce."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "23"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "99"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "2"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Q"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ues"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ab"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ir"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ria"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Plate"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Lamb"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "/"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "cons"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "om"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "é"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " red"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: $twenty three point nine nine. 2. Quesabirria Plate   Lamb/consomé,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " onions"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cil"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "antro"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " lime"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "red onions, cilantro, and lime."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "13"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "98"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Fl"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aut"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "as"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Chicken"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " fl"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aut"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "as"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " lettuce"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cheese"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: thirteen dollars and ninety eight cents. 3. Flautas   Chicken flautas with lettuce,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " sour"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cream"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " rice"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " beans"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "cheese, sour cream, rice, and beans."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "11"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "75"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Single"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " T"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "acos"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Ass"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "orted"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " options"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " including"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Al"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Pastor"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Barb"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: eleven dollars and seventy five cents. 4. Single Tacos   Assorted options including Al Pastor,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aco"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "a"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Su"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "adero"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " As"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "ada"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " more"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Barbacoa, Suadero, Asada, and more."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "4"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "50"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " each"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "\n"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "5"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Tic"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "-T"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "aco"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " House"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Special"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " Order"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " "
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "3"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " corn"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " tort"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "illa"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " tacos"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " with"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " cil"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": "antro"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " onions"
+}
+ Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: four dollars and fifty cents each. 5. Tic Taco House Special   Order of 3 corn tortilla tacos with cilantro,"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " rice"
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": ","
+}
+ Processing message in Display: {
+  "type": "model-output",
+  "output": " and"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " beans"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "voice-input",
+  "input": "onions, rice, and beans. Price:"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "13"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "98"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "\n\n"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "Dr"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "inks"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": ":\n"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "1"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " Fresh"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " Home"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "-M"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "ade"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " Water"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " -"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " Choose"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " from"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " a"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " variety"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " of"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " fresh"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " homemade"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " juices"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " Price"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "voice-input",
+  "input": "thirteen dollars and ninety eight cents. Drinks:. 1. Fresh Home Made Water   Choose from a variety of fresh homemade juices."
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": ":"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": " $"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "5"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "."
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "model-output",
+  "output": "53"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "voice-input",
+  "input": "Price: five dollars and fifty three cents"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Here's a quick overview of our menu."
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "content": "This will just take a sec. Here's a quick overview of our menu.",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\
+Display.tsx:20 Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "Starters,"
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "content": "This will just take a sec. Here's a quick overview of our menu.",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\
+Display.tsx:20 Processing message in Display: {
+  "type": "transcript",
+  "role": "assistant",
+  "transcriptType": "final",
+  "transcript": "1."
+}
+Display.tsx:20 Processing message in Display: {
+  "type": "conversation-update",
+  "conversation": [
+    {
+      "role": "system",
+      "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+    },
+    {
+      "role": "user",
+      "content": "I still made money."
+    },
+    {
+      "role": "assistant",
+      "content": "This will just take a sec. Here's a quick overview of our menu.",
+      "tool_calls": [
+        {
+          "id": "call_cTnZLLKfHt07Aia5kHySAcef",
+          "type": "function",
+          "function": {
+            "name": "fetchMenu",
+            "arguments": "{}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_cTnZLLKfHt07Aia5kHySAcef",
+      "content": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\
+AssistantButton.tsx:33 Session is active, morphing the ball
+AssistantButton.tsx:116 Morphing the ball with volume: 0.052955215648285425
+AssistantButton.tsx:33 Session is active, morphing the ball
+AssistantButton.tsx:116 Morphing the ball with volume: 0.21081851067789195
+AssistantButton.tsx:33 Session is active, morphing the ball
+AssistantButton.tsx:116 Morphing the ball with volume: 0.5295521564828543
+AssistantButton.tsx:36 Session ended, resetting the ball
+AssistantButton.tsx:146 Resetting the ball to its original shape
+useVapi.ts:39 Call has stopped
+AssistantButton.tsx:36 Session ended, resetting the ball
+AssistantButton.tsx:146 Resetting the ball to its original shape
+useVapi.ts:29 Speech has ended

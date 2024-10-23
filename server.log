@@ -1,0 +1,3147 @@
+Handling TOOL_CALLS
+Handling tool calls: {
+  "timestamp": 1729664381902,
+  "type": "tool-calls",
+  "toolCalls": [
+    {
+      "id": "call_SEWAoamvlTHmrQGRX2WdovSe",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": {}
+      }
+    }
+  ],
+  "toolCallList": [
+    {
+      "id": "call_SEWAoamvlTHmrQGRX2WdovSe",
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "arguments": {}
+      }
+    }
+  ],
+  "toolWithToolCallList": [
+    {
+      "type": "function",
+      "function": {
+        "name": "fetchMenu",
+        "description": "Fetches the restaurant menu from Square.",
+        "parameters": {
+          "type": "object",
+          "properties": {},
+          "required": []
+        }
+      },
+      "messages": [],
+      "toolCall": {
+        "id": "call_SEWAoamvlTHmrQGRX2WdovSe",
+        "type": "function",
+        "function": {
+          "name": "fetchMenu",
+          "arguments": {}
+        }
+      }
+    }
+  ],
+  "artifact": {
+    "messages": [
+      {
+        "role": "system",
+        "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+        "time": 1729664368201,
+        "secondsFromStart": 0
+      },
+      {
+        "role": "bot",
+        "message": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?",
+        "time": 1729664369994,
+        "endTime": 1729664374754,
+        "secondsFromStart": 1.4399999,
+        "duration": 4600,
+        "source": ""
+      },
+      {
+        "role": "user",
+        "message": "Thank you",
+        "time": 1729664376994,
+        "endTime": 1729664377494,
+        "secondsFromStart": 8.44,
+        "duration": 500
+      },
+      {
+        "toolCalls": [
+          {
+            "id": "call_SEWAoamvlTHmrQGRX2WdovSe",
+            "type": "function",
+            "function": {
+              "name": "fetchMenu",
+              "arguments": "{}"
+            }
+          }
+        ],
+        "role": "tool_calls",
+        "message": "",
+        "time": 1729664381898,
+        "secondsFromStart": 10.243
+      }
+    ],
+    "messagesOpenAIFormatted": [
+      {
+        "role": "system",
+        "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information."
+      },
+      {
+        "role": "assistant",
+        "content": "Welcome to TikTok. I'll fetch our latest menu for you. Can I assist you with your order today?"
+      },
+      {
+        "role": "user",
+        "content": "Thank you"
+      },
+      {
+        "role": "assistant",
+        "tool_calls": [
+          {
+            "id": "call_SEWAoamvlTHmrQGRX2WdovSe",
+            "type": "function",
+            "function": {
+              "name": "fetchMenu",
+              "arguments": "{}"
+            }
+          }
+        ]
+      },
+      {
+        "role": "tool",
+        "tool_call_id": "call_SEWAoamvlTHmrQGRX2WdovSe",
+        "content": "Tool Result Still Pending But Proceed Further If Possible."
+      }
+    ]
+  },
+  "call": {
+    "id": "25351336-2957-4453-97f1-9655167b5dd6",
+    "orgId": "123dc39a-6f4f-404a-91e8-6ebe4eef32f3",
+    "createdAt": "2024-10-23T06:19:27.741Z",
+    "updatedAt": "2024-10-23T06:19:27.741Z",
+    "type": "webCall",
+    "monitor": {
+      "listenUrl": "wss://aws-us-west-2-backend-production3-phone-call-websocket.vapi.ai/25351336-2957-4453-97f1-9655167b5dd6/listen",
+      "controlUrl": "https://aws-us-west-2-backend-production3-phone-call-websocket.vapi.ai/25351336-2957-4453-97f1-9655167b5dd6/control"
+    },
+    "webCallUrl": "https://vapi.daily.co/yzdgUCd7DFgJNQunEWeG",
+    "status": "queued",
+    "assistant": {
+      "name": "Order-Assistant",
+      "model": {
+        "model": "gpt-3.5-turbo",
+        "temperature": 0.7,
+        "messages": [
+          {
+            "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+            "role": "system"
+          }
+        ],
+        "tools": [
+          {
+            "function": {
+              "name": "fetchMenu",
+              "description": "Fetches the restaurant menu from Square.",
+              "parameters": {
+                "type": "object",
+                "properties": {},
+                "required": []
+              }
+            },
+            "type": "function"
+          },
+          {
+            "function": {
+              "name": "displayImages",
+              "description": "Displays images for specified menu items to the user.",
+              "parameters": {
+                "type": "object",
+                "properties": {
+                  "itemIds": {
+                    "description": "Array of item IDs to display images for",
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "itemIds"
+                ]
+              }
+            },
+            "type": "function"
+          },
+          {
+            "function": {
+              "name": "createOrder",
+              "description": "Creates an order with the specified items.",
+              "parameters": {
+                "type": "object",
+                "properties": {
+                  "items": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "catalogObjectId": {
+                          "type": "string"
+                        },
+                        "quantity": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "catalogObjectId",
+                        "quantity"
+                      ]
+                    }
+                  }
+                },
+                "required": [
+                  "items"
+                ]
+              }
+            },
+            "type": "function"
+          },
+          {
+            "function": {
+              "name": "selectCategory",
+              "description": "Selects a menu category to display.",
+              "parameters": {
+                "type": "object",
+                "properties": {
+                  "category": {
+                    "description": "The category to display. Must be one of: Starters, Main Menu, or Drinks.",
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "category"
+                ]
+              }
+            },
+            "type": "function"
+          }
+        ],
+        "provider": "openai"
+      },
+      "voice": {
+        "provider": "11labs",
+        "voiceId": "paula"
+      },
+      "firstMessage": "Welcome to Tic-Taco! I'll fetch our latest menu for you. How can I assist you with your order today?"
+    }
+  },
+  "assistant": {
+    "name": "Order-Assistant",
+    "model": {
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.7,
+      "messages": [
+        {
+          "content": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+          "role": "system"
+        }
+      ],
+      "tools": [
+        {
+          "function": {
+            "name": "fetchMenu",
+            "description": "Fetches the restaurant menu from Square.",
+            "parameters": {
+              "type": "object",
+              "properties": {},
+              "required": []
+            }
+          },
+          "type": "function"
+        },
+        {
+          "function": {
+            "name": "displayImages",
+            "description": "Displays images for specified menu items to the user.",
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "itemIds": {
+                  "description": "Array of item IDs to display images for",
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "itemIds"
+              ]
+            }
+          },
+          "type": "function"
+        },
+        {
+          "function": {
+            "name": "createOrder",
+            "description": "Creates an order with the specified items.",
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "items": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "catalogObjectId": {
+                        "type": "string"
+                      },
+                      "quantity": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "catalogObjectId",
+                      "quantity"
+                    ]
+                  }
+                }
+              },
+              "required": [
+                "items"
+              ]
+            }
+          },
+          "type": "function"
+        },
+        {
+          "function": {
+            "name": "selectCategory",
+            "description": "Selects a menu category to display.",
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "category": {
+                  "description": "The category to display. Must be one of: Starters, Main Menu, or Drinks.",
+                  "type": "string"
+                }
+              },
+              "required": [
+                "category"
+              ]
+            }
+          },
+          "type": "function"
+        }
+      ],
+      "provider": "openai"
+    },
+    "voice": {
+      "provider": "11labs",
+      "voiceId": "paula"
+    },
+    "firstMessage": "Welcome to Tic-Taco! I'll fetch our latest menu for you. How can I assist you with your order today?"
+  }
+}
+Fetching menu from Square...
+Handling SPEECH_UPDATE
+Raw Square API response: {
+  "objects": [
+    {
+      "type": "ITEM",
+      "id": "W5ZOQ7UZJAXSULOV6JWOQ67X",
+      "updated_at": "2024-10-22T23:30:30.021Z",
+      "created_at": "2024-10-16T20:09:36.307Z",
+      "version": 1729639830021,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "item_data": {
+        "name": "FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA",
+        "is_taxable": true,
+        "visibility": "PRIVATE",
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "QA5SYNIXSGUCCCBAD7UYZIOD",
+            "updated_at": "2024-10-22T23:30:29.338Z",
+            "created_at": "2024-10-16T20:09:36.307Z",
+            "version": 1729639829338,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "W5ZOQ7UZJAXSULOV6JWOQ67X",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1295,
+                "currency": "USD"
+              },
+              "inventory_alert_type": "NONE",
+              "sellable": true,
+              "stockable": true
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": false,
+        "ecom_visibility": "UNINDEXED",
+        "categories": [
+          {
+            "id": "7F227JNW2UJCFEMFO5TDUAK6",
+            "ordinal": -2251765453946880
+          }
+        ],
+        "is_archived": false,
+        "reporting_category": {
+          "id": "7F227JNW2UJCFEMFO5TDUAK6",
+          "ordinal": -2251765453946880
+        }
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "GH22DVXWKTUWAHWSXCZLWBHR",
+      "updated_at": "2024-10-22T23:30:30.021Z",
+      "created_at": "2024-10-16T20:10:08.994Z",
+      "version": 1729639830021,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "item_data": {
+        "name": "CHIPS N SALSA",
+        "is_taxable": true,
+        "visibility": "PRIVATE",
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "PVZ4ALETB2QT74QRNWTWMBWL",
+            "updated_at": "2024-10-22T23:30:29.338Z",
+            "created_at": "2024-10-16T20:10:08.994Z",
+            "version": 1729639829338,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "GH22DVXWKTUWAHWSXCZLWBHR",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 450,
+                "currency": "USD"
+              },
+              "inventory_alert_type": "NONE",
+              "sellable": true,
+              "stockable": true
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": false,
+        "ecom_visibility": "UNINDEXED",
+        "categories": [
+          {
+            "id": "7F227JNW2UJCFEMFO5TDUAK6",
+            "ordinal": -2251799813685248
+          }
+        ],
+        "is_archived": false,
+        "reporting_category": {
+          "id": "7F227JNW2UJCFEMFO5TDUAK6",
+          "ordinal": -2251799813685248
+        }
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "YHBZOKEYMJM6CTROIKYOPDC5",
+      "updated_at": "2024-10-22T23:29:54.802Z",
+      "created_at": "2024-10-16T20:10:46.114Z",
+      "version": 1729639794802,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "item_data": {
+        "name": "PIZZADILLA",
+        "description": "3 Flour tortillas of 10\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\n Choose:\n-Barbacoa(res) newwwww!!!!!!!!!\n-Al Pastor\n-Birria\n-Asada\n-chicken breast\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.",
+        "is_taxable": true,
+        "visibility": "PRIVATE",
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "F7NBU2PAIWASHLDV5JSZH6CF",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-16T20:10:46.114Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "YHBZOKEYMJM6CTROIKYOPDC5",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 2399,
+                "currency": "USD"
+              },
+              "inventory_alert_type": "NONE",
+              "sellable": true,
+              "stockable": true
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": false,
+        "ecom_visibility": "UNINDEXED",
+        "image_ids": [
+          "EQM3235IXRGDLUNHT7BUBVWA"
+        ],
+        "categories": [
+          {
+            "id": "MAOEB2GZXDLDEJ5Q2N2WCRME",
+            "ordinal": -2251765453946880
+          }
+        ],
+        "description_html": "<p>3 Flour tortillas of 10&#34; , Red onions, cilantro, sour cream and traditional green spicy sauce.</p><p> Choose:</p><p>-Barbacoa(res) newwwww!!!!!!!!!</p><p>-Al Pastor</p><p>-Birria</p><p>-Asada</p><p>-chicken breast</p><p>-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.</p>",
+        "description_plaintext": "3 Flour tortillas of 10\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\n Choose:\n-Barbacoa(res) newwwww!!!!!!!!!\n-Al Pastor\n-Birria\n-Asada\n-chicken breast\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.",
+        "is_archived": false,
+        "reporting_category": {
+          "id": "MAOEB2GZXDLDEJ5Q2N2WCRME",
+          "ordinal": -2251765453946880
+        }
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "PMFSN5Q7XEVVY5FZ2QLQC3QD",
+      "updated_at": "2024-10-22T23:29:54.802Z",
+      "created_at": "2024-10-16T20:11:34.778Z",
+      "version": 1729639794802,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "item_data": {
+        "name": "QUESABIRRIA PLATE",
+        "description": "order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.",
+        "is_taxable": true,
+        "visibility": "PRIVATE",
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "23QTUPAIWA2OVHYEYJGSGCQO",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-16T20:11:34.778Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "PMFSN5Q7XEVVY5FZ2QLQC3QD",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1398,
+                "currency": "USD"
+              },
+              "inventory_alert_type": "NONE",
+              "sellable": true,
+              "stockable": true
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": false,
+        "ecom_visibility": "UNINDEXED",
+        "image_ids": [
+          "PX4RXTKFJEIETTVQWFF5DZRW"
+        ],
+        "categories": [
+          {
+            "id": "MAOEB2GZXDLDEJ5Q2N2WCRME",
+            "ordinal": -2251748274077696
+          }
+        ],
+        "description_html": "<p>order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.</p>",
+        "description_plaintext": "order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.",
+        "is_archived": false,
+        "reporting_category": {
+          "id": "MAOEB2GZXDLDEJ5Q2N2WCRME",
+          "ordinal": -2251748274077696
+        }
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "6LFR4ZTCL5W7EAWQLCKQDUIO",
+      "updated_at": "2024-10-22T23:29:54.802Z",
+      "created_at": "2024-10-16T20:11:58.169Z",
+      "version": 1729639794802,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "item_data": {
+        "name": "FLAUTAS",
+        "description": "4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.",
+        "is_taxable": true,
+        "visibility": "PRIVATE",
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "MNM4ZODN3BKGCFEOWRBAM4NV",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-16T20:11:58.169Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "6LFR4ZTCL5W7EAWQLCKQDUIO",
+              "name": "Regular",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1175,
+                "currency": "USD"
+              },
+              "inventory_alert_type": "NONE",
+              "sellable": true,
+              "stockable": true
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": false,
+        "ecom_visibility": "UNINDEXED",
+        "image_ids": [
+          "U6KGSDEX42I6FO3VKW22COBJ"
+        ],
+        "categories": [
+          {
+            "id": "MAOEB2GZXDLDEJ5Q2N2WCRME",
+            "ordinal": -2251799813685248
+          }
+        ],
+        "description_html": "<p>4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.</p>",
+        "description_plaintext": "4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.",
+        "is_archived": false,
+        "reporting_category": {
+          "id": "MAOEB2GZXDLDEJ5Q2N2WCRME",
+          "ordinal": -2251799813685248
+        }
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "3FOXJE52K7KENLKBRMS5JXAT",
+      "updated_at": "2024-10-22T23:29:54.802Z",
+      "created_at": "2024-10-16T20:13:44.64Z",
+      "version": 1729639794802,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "item_data": {
+        "name": "SINGLE TACO",
+        "is_taxable": true,
+        "visibility": "PRIVATE",
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "VWSFPUNBD2GD3JFGD6ZC3GUC",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-16T20:13:44.64Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "3FOXJE52K7KENLKBRMS5JXAT",
+              "name": "Al Pastor",
+              "ordinal": 0,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 450,
+                "currency": "USD"
+              },
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "4LP7IPHPZ5GLEK3P56HVRA4C"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "RNC3TKPDYWSWOUHDEAML2WTX",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T16:00:08.833Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "3FOXJE52K7KENLKBRMS5JXAT",
+              "name": "Barbacoa",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 450,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "C74TNJ7SURZINO2VDS2EAPAU"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "VNC2AAUGKRIS7L3N6AOOWMHO",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T16:00:08.833Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "3FOXJE52K7KENLKBRMS5JXAT",
+              "name": "Suadero",
+              "ordinal": 2,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 450,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "WGEJFKBTOSMADX3NUKI264IB"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "CRCXPVFWEQY4CTQQUKKQLWH7",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T16:00:08.833Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "3FOXJE52K7KENLKBRMS5JXAT",
+              "name": "Asada",
+              "ordinal": 3,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 450,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "MNYHGRRVNO2HJJ4OSTW5CCPM"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "YCLERQE5L235UM24JPTB5NJB",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T16:00:08.833Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "3FOXJE52K7KENLKBRMS5JXAT",
+              "name": "Red fajita",
+              "ordinal": 4,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 450,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "GIGKSVQ4CT4Z7I5JMDFYK4IJ"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "RL56XY444TWTNJVY4I5YLAUY",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T16:00:08.833Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "3FOXJE52K7KENLKBRMS5JXAT",
+              "name": "Pork/Ribs",
+              "ordinal": 5,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 450,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "CQ3WG43S5T4WCZS6ZXEAK74D"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ILJPF3PEPTIPCPWQVTBV6NTQ",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T16:00:08.833Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "3FOXJE52K7KENLKBRMS5JXAT",
+              "name": "Chorizo",
+              "ordinal": 6,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 450,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "OFORQTGHC52UQ6G35DD3UJ6J"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "CMW6PC5H5FVGLOGH3N5NFDX5",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T16:00:08.833Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "3FOXJE52K7KENLKBRMS5JXAT",
+              "name": "Carnitas",
+              "ordinal": 7,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 450,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "ZTX665SJREBL4VWOWI2KWIMJ"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "DRYZHIZL7W54IC6ZSAQ6KW25",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T16:00:08.833Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "3FOXJE52K7KENLKBRMS5JXAT",
+              "name": "Chicken breast",
+              "ordinal": 8,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 450,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "DIWZUWTNV3FYQ4MYLQIUMOXT"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "2NLF6BXZKUAPRT3RCX3QEFBG",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T16:00:08.833Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "3FOXJE52K7KENLKBRMS5JXAT",
+              "name": "Mix.(campechano)Asada,Fajita, Chorizo and pineapple",
+              "ordinal": 9,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 450,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "KELGSYGL5NU5L6PYGHLGPKZB"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": false,
+        "item_options": [
+          {
+            "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3"
+          }
+        ],
+        "ecom_visibility": "UNINDEXED",
+        "categories": [
+          {
+            "id": "MAOEB2GZXDLDEJ5Q2N2WCRME",
+            "ordinal": -2251739684143104
+          }
+        ],
+        "is_archived": false,
+        "reporting_category": {
+          "id": "MAOEB2GZXDLDEJ5Q2N2WCRME",
+          "ordinal": -2251739684143104
+        }
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "GTHOODPM6ETIR7SXYSOPXNIR",
+      "updated_at": "2024-10-22T23:29:54.802Z",
+      "created_at": "2024-10-18T03:00:07.015Z",
+      "version": 1729639794802,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "item_data": {
+        "name": "TIC-TACO HOUSE SPECIAL",
+        "description": "Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge",
+        "is_taxable": true,
+        "visibility": "PRIVATE",
+        "modifier_list_info": [
+          {
+            "modifier_list_id": "MJXT2WZRDPPAAN5E7LR27RGB",
+            "visibility": "PUBLIC",
+            "min_selected_modifiers": -1,
+            "max_selected_modifiers": -1,
+            "enabled": true
+          }
+        ],
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "3LOW26JIGJ5MZ52ZTN6KG6XS",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T03:00:07.015Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "GTHOODPM6ETIR7SXYSOPXNIR",
+              "name": "Al Pastor",
+              "ordinal": 0,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1398,
+                "currency": "USD"
+              },
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "4LP7IPHPZ5GLEK3P56HVRA4C"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "2ID3USBCR7CDDFTQVP3OCACT",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T15:32:01.793Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "GTHOODPM6ETIR7SXYSOPXNIR",
+              "name": "Barbacoa",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1398,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "C74TNJ7SURZINO2VDS2EAPAU"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "J66LHOHRX4H4IREP7KJBKYT3",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T15:32:01.793Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "GTHOODPM6ETIR7SXYSOPXNIR",
+              "name": "Suadero",
+              "ordinal": 2,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1398,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "WGEJFKBTOSMADX3NUKI264IB"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "KU77GYKBABX2SUCGSR3NIFZ2",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T15:32:01.793Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "GTHOODPM6ETIR7SXYSOPXNIR",
+              "name": "Asada",
+              "ordinal": 3,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1398,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "MNYHGRRVNO2HJJ4OSTW5CCPM"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "NPHAU3QFNNZR2W3TG4PKXOTV",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T15:32:01.793Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "GTHOODPM6ETIR7SXYSOPXNIR",
+              "name": "Red fajita",
+              "ordinal": 4,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1398,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "GIGKSVQ4CT4Z7I5JMDFYK4IJ"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "GJJCPVDPJGJDPEBVKUSAWR6K",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T15:32:01.793Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "GTHOODPM6ETIR7SXYSOPXNIR",
+              "name": "Pork/Ribs",
+              "ordinal": 5,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1398,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "CQ3WG43S5T4WCZS6ZXEAK74D"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ZE2LU4SH7ZKVS6UTRWK4L2C6",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T15:32:01.793Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "GTHOODPM6ETIR7SXYSOPXNIR",
+              "name": "Chorizo",
+              "ordinal": 6,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1398,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "OFORQTGHC52UQ6G35DD3UJ6J"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "NCHTRTS3NB5ARAFOVW3B5UHM",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T15:32:01.793Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "GTHOODPM6ETIR7SXYSOPXNIR",
+              "name": "Carnitas",
+              "ordinal": 7,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1398,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "ZTX665SJREBL4VWOWI2KWIMJ"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "NMSK2KEC3WERGSAYJSSKI3YY",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T15:32:01.793Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "GTHOODPM6ETIR7SXYSOPXNIR",
+              "name": "Chicken breast",
+              "ordinal": 8,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1398,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "DIWZUWTNV3FYQ4MYLQIUMOXT"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "A6PE2AZSFW2VSJUAM4HEGDW7",
+            "updated_at": "2024-10-22T23:29:53.698Z",
+            "created_at": "2024-10-18T15:32:01.793Z",
+            "version": 1729639793698,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "GTHOODPM6ETIR7SXYSOPXNIR",
+              "name": "Mix.(campechano)Asada,Fajita, Chorizo and pineapple",
+              "ordinal": 9,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 1398,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+                  "item_option_value_id": "KELGSYGL5NU5L6PYGHLGPKZB"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": false,
+        "item_options": [
+          {
+            "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3"
+          }
+        ],
+        "ecom_visibility": "UNINDEXED",
+        "image_ids": [
+          "Q47MZSZ4YFPMUNKJF7BCBFC6"
+        ],
+        "categories": [
+          {
+            "id": "MAOEB2GZXDLDEJ5Q2N2WCRME",
+            "ordinal": -2251735389175808
+          }
+        ],
+        "description_html": "<p>Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge </p>",
+        "description_plaintext": "Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge",
+        "is_archived": false,
+        "reporting_category": {
+          "id": "MAOEB2GZXDLDEJ5Q2N2WCRME",
+          "ordinal": -2251735389175808
+        }
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "LPB4VJRFMR46CSNZN3MDSWCV",
+      "updated_at": "2024-10-22T23:30:46.294Z",
+      "created_at": "2024-10-18T15:33:07.046Z",
+      "version": 1729639846294,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "item_data": {
+        "name": "FRESH HOME-MADE WATER",
+        "description": "Fresh home made juice, choose from: \n-Watermelon\n-Cantaloupe\n-Pineapple\n-Horchata\n-Cucumber \n-Lime\n-Jamaica\n-Tamarind",
+        "is_taxable": true,
+        "visibility": "PRIVATE",
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "QZRE7CUQ3R647HYLWMECQXUW",
+            "updated_at": "2024-10-22T23:30:45.646Z",
+            "created_at": "2024-10-18T15:33:07.046Z",
+            "version": 1729639845646,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "LPB4VJRFMR46CSNZN3MDSWCV",
+              "name": "Watermelon",
+              "ordinal": 0,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 553,
+                "currency": "USD"
+              },
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+                  "item_option_value_id": "CM27JFGGAIBXJIOVIOLOW4PE"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "VWON252MJNJCPP74BFA5EAOC",
+            "updated_at": "2024-10-22T23:30:45.646Z",
+            "created_at": "2024-10-18T15:34:34.559Z",
+            "version": 1729639845646,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "LPB4VJRFMR46CSNZN3MDSWCV",
+              "name": "Cantaloupe",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 553,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+                  "item_option_value_id": "VXLTCBVYDLG4PC4IIW7JBEOZ"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "Y2B4M7PVY5YTHVWWKUCOGLLC",
+            "updated_at": "2024-10-22T23:30:45.646Z",
+            "created_at": "2024-10-18T15:34:34.559Z",
+            "version": 1729639845646,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "LPB4VJRFMR46CSNZN3MDSWCV",
+              "name": "Pineapple",
+              "ordinal": 2,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 553,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+                  "item_option_value_id": "BDEBOMDSPXKMLF2UPWOHLR2Q"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "3FNYWKGCZFGKWFL4JPXQCUF4",
+            "updated_at": "2024-10-22T23:30:45.646Z",
+            "created_at": "2024-10-18T15:34:34.559Z",
+            "version": 1729639845646,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "LPB4VJRFMR46CSNZN3MDSWCV",
+              "name": "Horchata",
+              "ordinal": 3,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 553,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+                  "item_option_value_id": "D2VOWSIVTN6HNBXL57TBRQG4"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "PPJHOF4UFASVDYAABQW3G6L4",
+            "updated_at": "2024-10-22T23:30:45.646Z",
+            "created_at": "2024-10-18T15:34:34.559Z",
+            "version": 1729639845646,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "LPB4VJRFMR46CSNZN3MDSWCV",
+              "name": "Cucumber",
+              "ordinal": 4,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 553,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+                  "item_option_value_id": "6CIT3XQJFFLJSPRGF6AUL3J5"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "T4LPEAXKYOZD7XP2BDMFADX2",
+            "updated_at": "2024-10-22T23:30:45.646Z",
+            "created_at": "2024-10-18T15:34:34.559Z",
+            "version": 1729639845646,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "LPB4VJRFMR46CSNZN3MDSWCV",
+              "name": "Lime",
+              "ordinal": 5,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 553,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+                  "item_option_value_id": "XCU6BMHAUTUMIF3R3R2LOYLA"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "ROC3WMISFO4PWNKOOJRGXMR3",
+            "updated_at": "2024-10-22T23:30:45.646Z",
+            "created_at": "2024-10-18T15:34:34.559Z",
+            "version": 1729639845646,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "LPB4VJRFMR46CSNZN3MDSWCV",
+              "name": "Jamaica",
+              "ordinal": 6,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 553,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+                  "item_option_value_id": "XNGSREFDKMFE2ZAHZJFPIE4H"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "Z6L4RDLRT6NLK2FS7BOAKVM5",
+            "updated_at": "2024-10-22T23:30:45.646Z",
+            "created_at": "2024-10-18T15:34:34.559Z",
+            "version": 1729639845646,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "LPB4VJRFMR46CSNZN3MDSWCV",
+              "name": "Tamarind",
+              "ordinal": 7,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 553,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+                  "item_option_value_id": "NO3RKJ4IYYM4H6L7EEDJPSYG"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": false,
+        "item_options": [
+          {
+            "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J"
+          }
+        ],
+        "ecom_visibility": "UNINDEXED",
+        "categories": [
+          {
+            "id": "PYABDEJIAFZB62WXSLCA55TB",
+            "ordinal": -2251799813685248
+          }
+        ],
+        "description_html": "<p>Fresh home made juice, choose from: </p><p>-Watermelon</p><p>-Cantaloupe</p><p>-Pineapple</p><p>-Horchata</p><p>-Cucumber </p><p>-Lime</p><p>-Jamaica</p><p>-Tamarind  </p>",
+        "description_plaintext": "Fresh home made juice, choose from: \n-Watermelon\n-Cantaloupe\n-Pineapple\n-Horchata\n-Cucumber \n-Lime\n-Jamaica\n-Tamarind",
+        "is_archived": false,
+        "reporting_category": {
+          "id": "PYABDEJIAFZB62WXSLCA55TB",
+          "ordinal": -2251799813685248
+        }
+      }
+    },
+    {
+      "type": "ITEM",
+      "id": "FZ3RHZCKCLOC4XLE34ZVSMDD",
+      "updated_at": "2024-10-22T23:30:46.294Z",
+      "created_at": "2024-10-18T15:35:54.673Z",
+      "version": 1729639846294,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "item_data": {
+        "name": "Pepsi Fountain Drink",
+        "description": "Pepsi product fountain drinks",
+        "is_taxable": true,
+        "visibility": "PRIVATE",
+        "variations": [
+          {
+            "type": "ITEM_VARIATION",
+            "id": "7CNQ24MQDZIN4JA4WP66ESMC",
+            "updated_at": "2024-10-22T23:30:45.646Z",
+            "created_at": "2024-10-18T15:35:54.673Z",
+            "version": 1729639845646,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "FZ3RHZCKCLOC4XLE34ZVSMDD",
+              "name": "Pepsi",
+              "ordinal": 0,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 277,
+                "currency": "USD"
+              },
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "3N4QLIVN6HVWTUBGBMHCSOPM",
+                  "item_option_value_id": "3FP26Z4MXUNURCDHQV2OGJUN"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "UBIWAXS3MIYDPVEUAZPHNLLX",
+            "updated_at": "2024-10-22T23:30:45.646Z",
+            "created_at": "2024-10-18T15:58:06.997Z",
+            "version": 1729639845646,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "FZ3RHZCKCLOC4XLE34ZVSMDD",
+              "name": "Sierra Mist",
+              "ordinal": 1,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 277,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "3N4QLIVN6HVWTUBGBMHCSOPM",
+                  "item_option_value_id": "MIKSWZPLONDRX6PVOXNPWUCW"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "IBER6V76PHVDMIBJRVBLIWYJ",
+            "updated_at": "2024-10-22T23:30:45.646Z",
+            "created_at": "2024-10-18T15:58:06.997Z",
+            "version": 1729639845646,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "FZ3RHZCKCLOC4XLE34ZVSMDD",
+              "name": "Dr. Pepper",
+              "ordinal": 2,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 277,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "3N4QLIVN6HVWTUBGBMHCSOPM",
+                  "item_option_value_id": "XKAIL7DQJZWXBPONCMZUB2WM"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "UPH3EJUEPOM7IPO2RYIRVB4K",
+            "updated_at": "2024-10-22T23:30:45.646Z",
+            "created_at": "2024-10-18T15:58:06.997Z",
+            "version": 1729639845646,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "FZ3RHZCKCLOC4XLE34ZVSMDD",
+              "name": "Mountain Dew",
+              "ordinal": 3,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 277,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "3N4QLIVN6HVWTUBGBMHCSOPM",
+                  "item_option_value_id": "2DG2GEWJQ446KNA44JGVBKDY"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          },
+          {
+            "type": "ITEM_VARIATION",
+            "id": "52CBYNRNVW2JQ4ZCFTTTJF4H",
+            "updated_at": "2024-10-22T23:30:45.646Z",
+            "created_at": "2024-10-18T15:58:06.997Z",
+            "version": 1729639845646,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "FZ3RHZCKCLOC4XLE34ZVSMDD",
+              "name": "Diet Pepsi",
+              "ordinal": 4,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 277,
+                "currency": "USD"
+              },
+              "track_inventory": false,
+              "inventory_alert_type": "NONE",
+              "item_option_values": [
+                {
+                  "item_option_id": "3N4QLIVN6HVWTUBGBMHCSOPM",
+                  "item_option_value_id": "HWMR7WR5UCBPTSHI7D2UV4JA"
+                }
+              ],
+              "sellable": true,
+              "stockable": true
+            }
+          }
+        ],
+        "product_type": "REGULAR",
+        "skip_modifier_screen": false,
+        "item_options": [
+          {
+            "item_option_id": "3N4QLIVN6HVWTUBGBMHCSOPM"
+          }
+        ],
+        "ecom_visibility": "UNINDEXED",
+        "categories": [
+          {
+            "id": "PYABDEJIAFZB62WXSLCA55TB",
+            "ordinal": -2251765453946880
+          }
+        ],
+        "description_html": "<p>Pepsi product fountain drinks </p>",
+        "description_plaintext": "Pepsi product fountain drinks",
+        "is_archived": false,
+        "reporting_category": {
+          "id": "PYABDEJIAFZB62WXSLCA55TB",
+          "ordinal": -2251765453946880
+        }
+      }
+    },
+    {
+      "type": "CATEGORY",
+      "id": "MAOEB2GZXDLDEJ5Q2N2WCRME",
+      "updated_at": "2024-10-22T23:29:53.698Z",
+      "created_at": "2024-10-22T23:29:53.817Z",
+      "version": 1729639793698,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "category_data": {
+        "name": "Main Menu",
+        "category_type": "REGULAR_CATEGORY",
+        "parent_category": {
+          "ordinal": -2251731094208512
+        },
+        "is_top_level": true,
+        "online_visibility": false
+      }
+    },
+    {
+      "type": "CATEGORY",
+      "id": "7F227JNW2UJCFEMFO5TDUAK6",
+      "updated_at": "2024-10-22T23:30:29.338Z",
+      "created_at": "2024-10-22T23:30:29.431Z",
+      "version": 1729639829338,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "category_data": {
+        "name": "Starters",
+        "category_type": "REGULAR_CATEGORY",
+        "parent_category": {
+          "ordinal": -2251662374731776
+        },
+        "is_top_level": true,
+        "online_visibility": false
+      }
+    },
+    {
+      "type": "CATEGORY",
+      "id": "PYABDEJIAFZB62WXSLCA55TB",
+      "updated_at": "2024-10-22T23:30:45.646Z",
+      "created_at": "2024-10-22T23:30:45.753Z",
+      "version": 1729639845646,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "category_data": {
+        "name": "Drinks",
+        "category_type": "REGULAR_CATEGORY",
+        "parent_category": {
+          "ordinal": -2251593655255040
+        },
+        "is_top_level": true,
+        "online_visibility": false
+      }
+    },
+    {
+      "type": "MODIFIER_LIST",
+      "id": "MJXT2WZRDPPAAN5E7LR27RGB",
+      "updated_at": "2024-10-18T03:05:35.224Z",
+      "created_at": "2024-10-18T03:05:35.302Z",
+      "version": 1729220735224,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "modifier_list_data": {
+        "name": "UPGRADE TO FLOUR TORTILLA",
+        "ordinal": 99999999,
+        "selection_type": "MULTIPLE",
+        "modifiers": [
+          {
+            "type": "MODIFIER",
+            "id": "RHCNDH4RFXYUBQ7FT73ML47C",
+            "updated_at": "2024-10-18T03:05:35.224Z",
+            "created_at": "2024-10-18T03:05:35.302Z",
+            "version": 1729220735224,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Flour Tortilla",
+              "price_money": {
+                "amount": 150,
+                "currency": "USD"
+              },
+              "on_by_default": false,
+              "ordinal": 1,
+              "modifier_list_id": "MJXT2WZRDPPAAN5E7LR27RGB"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "ITEM_OPTION",
+      "id": "QWLD56BAYFSJYFE34LVUHHS3",
+      "updated_at": "2024-10-18T15:32:01.247Z",
+      "created_at": "2024-10-18T15:32:01.328Z",
+      "version": 1729265521247,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "item_option_data": {
+        "name": "Meat Choice",
+        "display_name": "Meat Choice",
+        "show_colors": false,
+        "values": [
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "4LP7IPHPZ5GLEK3P56HVRA4C",
+            "version": 1729265521247,
+            "item_option_value_data": {
+              "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+              "name": "Al Pastor",
+              "ordinal": 0
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "C74TNJ7SURZINO2VDS2EAPAU",
+            "version": 1729265521247,
+            "item_option_value_data": {
+              "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+              "name": "Barbacoa",
+              "ordinal": 1
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "WGEJFKBTOSMADX3NUKI264IB",
+            "version": 1729265521247,
+            "item_option_value_data": {
+              "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+              "name": "Suadero",
+              "ordinal": 2
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "MNYHGRRVNO2HJJ4OSTW5CCPM",
+            "version": 1729265521247,
+            "item_option_value_data": {
+              "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+              "name": "Asada",
+              "ordinal": 3
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "GIGKSVQ4CT4Z7I5JMDFYK4IJ",
+            "version": 1729265521247,
+            "item_option_value_data": {
+              "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+              "name": "Red fajita",
+              "ordinal": 4
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "CQ3WG43S5T4WCZS6ZXEAK74D",
+            "version": 1729265521247,
+            "item_option_value_data": {
+              "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+              "name": "Pork/Ribs",
+              "ordinal": 5
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "OFORQTGHC52UQ6G35DD3UJ6J",
+            "version": 1729265521247,
+            "item_option_value_data": {
+              "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+              "name": "Chorizo",
+              "ordinal": 6
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "ZTX665SJREBL4VWOWI2KWIMJ",
+            "version": 1729265521247,
+            "item_option_value_data": {
+              "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+              "name": "Carnitas",
+              "ordinal": 7
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "DIWZUWTNV3FYQ4MYLQIUMOXT",
+            "version": 1729265521247,
+            "item_option_value_data": {
+              "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+              "name": "Chicken breast",
+              "ordinal": 8
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "KELGSYGL5NU5L6PYGHLGPKZB",
+            "version": 1729265521247,
+            "item_option_value_data": {
+              "item_option_id": "QWLD56BAYFSJYFE34LVUHHS3",
+              "name": "Mix.(campechano)Asada,Fajita, Chorizo and pineapple",
+              "ordinal": 9
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "ITEM_OPTION",
+      "id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+      "updated_at": "2024-10-18T15:34:33.972Z",
+      "created_at": "2024-10-18T15:34:34.052Z",
+      "version": 1729265673972,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "item_option_data": {
+        "name": "Flavor",
+        "display_name": "Flavor",
+        "show_colors": false,
+        "values": [
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "CM27JFGGAIBXJIOVIOLOW4PE",
+            "version": 1729265673972,
+            "item_option_value_data": {
+              "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+              "name": "Watermelon",
+              "ordinal": 0
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "VXLTCBVYDLG4PC4IIW7JBEOZ",
+            "version": 1729265673972,
+            "item_option_value_data": {
+              "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+              "name": "Cantaloupe",
+              "ordinal": 1
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "BDEBOMDSPXKMLF2UPWOHLR2Q",
+            "version": 1729265673972,
+            "item_option_value_data": {
+              "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+              "name": "Pineapple",
+              "ordinal": 2
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "D2VOWSIVTN6HNBXL57TBRQG4",
+            "version": 1729265673972,
+            "item_option_value_data": {
+              "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+              "name": "Horchata",
+              "ordinal": 3
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "6CIT3XQJFFLJSPRGF6AUL3J5",
+            "version": 1729265673972,
+            "item_option_value_data": {
+              "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+              "name": "Cucumber",
+              "ordinal": 4
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "XCU6BMHAUTUMIF3R3R2LOYLA",
+            "version": 1729265673972,
+            "item_option_value_data": {
+              "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+              "name": "Lime",
+              "ordinal": 5
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "XNGSREFDKMFE2ZAHZJFPIE4H",
+            "version": 1729265673972,
+            "item_option_value_data": {
+              "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+              "name": "Jamaica",
+              "ordinal": 6
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "NO3RKJ4IYYM4H6L7EEDJPSYG",
+            "version": 1729265673972,
+            "item_option_value_data": {
+              "item_option_id": "GZ6YGYKMPNNVZO5CBGC22W2J",
+              "name": "Tamarind",
+              "ordinal": 7
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "ITEM_OPTION",
+      "id": "3N4QLIVN6HVWTUBGBMHCSOPM",
+      "updated_at": "2024-10-18T15:58:06.402Z",
+      "created_at": "2024-10-18T15:58:06.475Z",
+      "version": 1729267086402,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "item_option_data": {
+        "name": "Fountain Drink Flavors",
+        "display_name": "Fountain Drink Flavors",
+        "show_colors": false,
+        "values": [
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "3FP26Z4MXUNURCDHQV2OGJUN",
+            "version": 1729267086402,
+            "item_option_value_data": {
+              "item_option_id": "3N4QLIVN6HVWTUBGBMHCSOPM",
+              "name": "Pepsi",
+              "ordinal": 0
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "MIKSWZPLONDRX6PVOXNPWUCW",
+            "version": 1729267086402,
+            "item_option_value_data": {
+              "item_option_id": "3N4QLIVN6HVWTUBGBMHCSOPM",
+              "name": "Sierra Mist",
+              "ordinal": 1
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "XKAIL7DQJZWXBPONCMZUB2WM",
+            "version": 1729267086402,
+            "item_option_value_data": {
+              "item_option_id": "3N4QLIVN6HVWTUBGBMHCSOPM",
+              "name": "Dr. Pepper",
+              "ordinal": 2
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "2DG2GEWJQ446KNA44JGVBKDY",
+            "version": 1729267086402,
+            "item_option_value_data": {
+              "item_option_id": "3N4QLIVN6HVWTUBGBMHCSOPM",
+              "name": "Mountain Dew",
+              "ordinal": 3
+            }
+          },
+          {
+            "type": "ITEM_OPTION_VAL",
+            "id": "HWMR7WR5UCBPTSHI7D2UV4JA",
+            "version": 1729267086402,
+            "item_option_value_data": {
+              "item_option_id": "3N4QLIVN6HVWTUBGBMHCSOPM",
+              "name": "Diet Pepsi",
+              "ordinal": 4
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
+Categorized menu: {
+  "Starters": [
+    {
+      "id": "W5ZOQ7UZJAXSULOV6JWOQ67X",
+      "name": "FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA",
+      "description": "",
+      "category": "Starters",
+      "variations": [
+        {
+          "id": "QA5SYNIXSGUCCCBAD7UYZIOD",
+          "name": "Regular",
+          "price": "1295"
+        }
+      ]
+    },
+    {
+      "id": "GH22DVXWKTUWAHWSXCZLWBHR",
+      "name": "CHIPS N SALSA",
+      "description": "",
+      "category": "Starters",
+      "variations": [
+        {
+          "id": "PVZ4ALETB2QT74QRNWTWMBWL",
+          "name": "Regular",
+          "price": "450"
+        }
+      ]
+    }
+  ],
+  "Main Menu": [
+    {
+      "id": "YHBZOKEYMJM6CTROIKYOPDC5",
+      "name": "PIZZADILLA",
+      "description": "3 Flour tortillas of 10\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\n Choose:\n-Barbacoa(res) newwwww!!!!!!!!!\n-Al Pastor\n-Birria\n-Asada\n-chicken breast\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.",
+      "category": "Main Menu",
+      "variations": [
+        {
+          "id": "F7NBU2PAIWASHLDV5JSZH6CF",
+          "name": "Regular",
+          "price": "2399"
+        }
+      ]
+    },
+    {
+      "id": "PMFSN5Q7XEVVY5FZ2QLQC3QD",
+      "name": "QUESABIRRIA PLATE",
+      "description": "order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.",
+      "category": "Main Menu",
+      "variations": [
+        {
+          "id": "23QTUPAIWA2OVHYEYJGSGCQO",
+          "name": "Regular",
+          "price": "1398"
+        }
+      ]
+    },
+    {
+      "id": "6LFR4ZTCL5W7EAWQLCKQDUIO",
+      "name": "FLAUTAS",
+      "description": "4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.",
+      "category": "Main Menu",
+      "variations": [
+        {
+          "id": "MNM4ZODN3BKGCFEOWRBAM4NV",
+          "name": "Regular",
+          "price": "1175"
+        }
+      ]
+    },
+    {
+      "id": "3FOXJE52K7KENLKBRMS5JXAT",
+      "name": "SINGLE TACO",
+      "description": "",
+      "category": "Main Menu",
+      "variations": [
+        {
+          "id": "VWSFPUNBD2GD3JFGD6ZC3GUC",
+          "name": "Al Pastor",
+          "price": "450"
+        },
+        {
+          "id": "RNC3TKPDYWSWOUHDEAML2WTX",
+          "name": "Barbacoa",
+          "price": "450"
+        },
+        {
+          "id": "VNC2AAUGKRIS7L3N6AOOWMHO",
+          "name": "Suadero",
+          "price": "450"
+        },
+        {
+          "id": "CRCXPVFWEQY4CTQQUKKQLWH7",
+          "name": "Asada",
+          "price": "450"
+        },
+        {
+          "id": "YCLERQE5L235UM24JPTB5NJB",
+          "name": "Red fajita",
+          "price": "450"
+        },
+        {
+          "id": "RL56XY444TWTNJVY4I5YLAUY",
+          "name": "Pork/Ribs",
+          "price": "450"
+        },
+        {
+          "id": "ILJPF3PEPTIPCPWQVTBV6NTQ",
+          "name": "Chorizo",
+          "price": "450"
+        },
+        {
+          "id": "CMW6PC5H5FVGLOGH3N5NFDX5",
+          "name": "Carnitas",
+          "price": "450"
+        },
+        {
+          "id": "DRYZHIZL7W54IC6ZSAQ6KW25",
+          "name": "Chicken breast",
+          "price": "450"
+        },
+        {
+          "id": "2NLF6BXZKUAPRT3RCX3QEFBG",
+          "name": "Mix.(campechano)Asada,Fajita, Chorizo and pineapple",
+          "price": "450"
+        }
+      ]
+    },
+    {
+      "id": "GTHOODPM6ETIR7SXYSOPXNIR",
+      "name": "TIC-TACO HOUSE SPECIAL",
+      "description": "Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge",
+      "category": "Main Menu",
+      "variations": [
+        {
+          "id": "3LOW26JIGJ5MZ52ZTN6KG6XS",
+          "name": "Al Pastor",
+          "price": "1398"
+        },
+        {
+          "id": "2ID3USBCR7CDDFTQVP3OCACT",
+          "name": "Barbacoa",
+          "price": "1398"
+        },
+        {
+          "id": "J66LHOHRX4H4IREP7KJBKYT3",
+          "name": "Suadero",
+          "price": "1398"
+        },
+        {
+          "id": "KU77GYKBABX2SUCGSR3NIFZ2",
+          "name": "Asada",
+          "price": "1398"
+        },
+        {
+          "id": "NPHAU3QFNNZR2W3TG4PKXOTV",
+          "name": "Red fajita",
+          "price": "1398"
+        },
+        {
+          "id": "GJJCPVDPJGJDPEBVKUSAWR6K",
+          "name": "Pork/Ribs",
+          "price": "1398"
+        },
+        {
+          "id": "ZE2LU4SH7ZKVS6UTRWK4L2C6",
+          "name": "Chorizo",
+          "price": "1398"
+        },
+        {
+          "id": "NCHTRTS3NB5ARAFOVW3B5UHM",
+          "name": "Carnitas",
+          "price": "1398"
+        },
+        {
+          "id": "NMSK2KEC3WERGSAYJSSKI3YY",
+          "name": "Chicken breast",
+          "price": "1398"
+        },
+        {
+          "id": "A6PE2AZSFW2VSJUAM4HEGDW7",
+          "name": "Mix.(campechano)Asada,Fajita, Chorizo and pineapple",
+          "price": "1398"
+        }
+      ]
+    }
+  ],
+  "Drinks": [
+    {
+      "id": "LPB4VJRFMR46CSNZN3MDSWCV",
+      "name": "FRESH HOME-MADE WATER",
+      "description": "Fresh home made juice, choose from: \n-Watermelon\n-Cantaloupe\n-Pineapple\n-Horchata\n-Cucumber \n-Lime\n-Jamaica\n-Tamarind",
+      "category": "Drinks",
+      "variations": [
+        {
+          "id": "QZRE7CUQ3R647HYLWMECQXUW",
+          "name": "Watermelon",
+          "price": "553"
+        },
+        {
+          "id": "VWON252MJNJCPP74BFA5EAOC",
+          "name": "Cantaloupe",
+          "price": "553"
+        },
+        {
+          "id": "Y2B4M7PVY5YTHVWWKUCOGLLC",
+          "name": "Pineapple",
+          "price": "553"
+        },
+        {
+          "id": "3FNYWKGCZFGKWFL4JPXQCUF4",
+          "name": "Horchata",
+          "price": "553"
+        },
+        {
+          "id": "PPJHOF4UFASVDYAABQW3G6L4",
+          "name": "Cucumber",
+          "price": "553"
+        },
+        {
+          "id": "T4LPEAXKYOZD7XP2BDMFADX2",
+          "name": "Lime",
+          "price": "553"
+        },
+        {
+          "id": "ROC3WMISFO4PWNKOOJRGXMR3",
+          "name": "Jamaica",
+          "price": "553"
+        },
+        {
+          "id": "Z6L4RDLRT6NLK2FS7BOAKVM5",
+          "name": "Tamarind",
+          "price": "553"
+        }
+      ]
+    },
+    {
+      "id": "FZ3RHZCKCLOC4XLE34ZVSMDD",
+      "name": "Pepsi Fountain Drink",
+      "description": "Pepsi product fountain drinks",
+      "category": "Drinks",
+      "variations": [
+        {
+          "id": "7CNQ24MQDZIN4JA4WP66ESMC",
+          "name": "Pepsi",
+          "price": "277"
+        },
+        {
+          "id": "UBIWAXS3MIYDPVEUAZPHNLLX",
+          "name": "Sierra Mist",
+          "price": "277"
+        },
+        {
+          "id": "IBER6V76PHVDMIBJRVBLIWYJ",
+          "name": "Dr. Pepper",
+          "price": "277"
+        },
+        {
+          "id": "UPH3EJUEPOM7IPO2RYIRVB4K",
+          "name": "Mountain Dew",
+          "price": "277"
+        },
+        {
+          "id": "52CBYNRNVW2JQ4ZCFTTTJF4H",
+          "name": "Diet Pepsi",
+          "price": "277"
+        }
+      ]
+    }
+  ]
+}
+Menu fetched successfully: {
+  "Starters": [
+    {
+      "id": "W5ZOQ7UZJAXSULOV6JWOQ67X",
+      "name": "FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA",
+      "description": "",
+      "category": "Starters",
+      "variations": [
+        {
+          "id": "QA5SYNIXSGUCCCBAD7UYZIOD",
+          "name": "Regular",
+          "price": "1295"
+        }
+      ]
+    },
+    {
+      "id": "GH22DVXWKTUWAHWSXCZLWBHR",
+      "name": "CHIPS N SALSA",
+      "description": "",
+      "category": "Starters",
+      "variations": [
+        {
+          "id": "PVZ4ALETB2QT74QRNWTWMBWL",
+          "name": "Regular",
+          "price": "450"
+        }
+      ]
+    }
+  ],
+  "Main Menu": [
+    {
+      "id": "YHBZOKEYMJM6CTROIKYOPDC5",
+      "name": "PIZZADILLA",
+      "description": "3 Flour tortillas of 10\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\n Choose:\n-Barbacoa(res) newwwww!!!!!!!!!\n-Al Pastor\n-Birria\n-Asada\n-chicken breast\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.",
+      "category": "Main Menu",
+      "variations": [
+        {
+          "id": "F7NBU2PAIWASHLDV5JSZH6CF",
+          "name": "Regular",
+          "price": "2399"
+        }
+      ]
+    },
+    {
+      "id": "PMFSN5Q7XEVVY5FZ2QLQC3QD",
+      "name": "QUESABIRRIA PLATE",
+      "description": "order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.",
+      "category": "Main Menu",
+      "variations": [
+        {
+          "id": "23QTUPAIWA2OVHYEYJGSGCQO",
+          "name": "Regular",
+          "price": "1398"
+        }
+      ]
+    },
+    {
+      "id": "6LFR4ZTCL5W7EAWQLCKQDUIO",
+      "name": "FLAUTAS",
+      "description": "4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.",
+      "category": "Main Menu",
+      "variations": [
+        {
+          "id": "MNM4ZODN3BKGCFEOWRBAM4NV",
+          "name": "Regular",
+          "price": "1175"
+        }
+      ]
+    },
+    {
+      "id": "3FOXJE52K7KENLKBRMS5JXAT",
+      "name": "SINGLE TACO",
+      "description": "",
+      "category": "Main Menu",
+      "variations": [
+        {
+          "id": "VWSFPUNBD2GD3JFGD6ZC3GUC",
+          "name": "Al Pastor",
+          "price": "450"
+        },
+        {
+          "id": "RNC3TKPDYWSWOUHDEAML2WTX",
+          "name": "Barbacoa",
+          "price": "450"
+        },
+        {
+          "id": "VNC2AAUGKRIS7L3N6AOOWMHO",
+          "name": "Suadero",
+          "price": "450"
+        },
+        {
+          "id": "CRCXPVFWEQY4CTQQUKKQLWH7",
+          "name": "Asada",
+          "price": "450"
+        },
+        {
+          "id": "YCLERQE5L235UM24JPTB5NJB",
+          "name": "Red fajita",
+          "price": "450"
+        },
+        {
+          "id": "RL56XY444TWTNJVY4I5YLAUY",
+          "name": "Pork/Ribs",
+          "price": "450"
+        },
+        {
+          "id": "ILJPF3PEPTIPCPWQVTBV6NTQ",
+          "name": "Chorizo",
+          "price": "450"
+        },
+        {
+          "id": "CMW6PC5H5FVGLOGH3N5NFDX5",
+          "name": "Carnitas",
+          "price": "450"
+        },
+        {
+          "id": "DRYZHIZL7W54IC6ZSAQ6KW25",
+          "name": "Chicken breast",
+          "price": "450"
+        },
+        {
+          "id": "2NLF6BXZKUAPRT3RCX3QEFBG",
+          "name": "Mix.(campechano)Asada,Fajita, Chorizo and pineapple",
+          "price": "450"
+        }
+      ]
+    },
+    {
+      "id": "GTHOODPM6ETIR7SXYSOPXNIR",
+      "name": "TIC-TACO HOUSE SPECIAL",
+      "description": "Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge",
+      "category": "Main Menu",
+      "variations": [
+        {
+          "id": "3LOW26JIGJ5MZ52ZTN6KG6XS",
+          "name": "Al Pastor",
+          "price": "1398"
+        },
+        {
+          "id": "2ID3USBCR7CDDFTQVP3OCACT",
+          "name": "Barbacoa",
+          "price": "1398"
+        },
+        {
+          "id": "J66LHOHRX4H4IREP7KJBKYT3",
+          "name": "Suadero",
+          "price": "1398"
+        },
+        {
+          "id": "KU77GYKBABX2SUCGSR3NIFZ2",
+          "name": "Asada",
+          "price": "1398"
+        },
+        {
+          "id": "NPHAU3QFNNZR2W3TG4PKXOTV",
+          "name": "Red fajita",
+          "price": "1398"
+        },
+        {
+          "id": "GJJCPVDPJGJDPEBVKUSAWR6K",
+          "name": "Pork/Ribs",
+          "price": "1398"
+        },
+        {
+          "id": "ZE2LU4SH7ZKVS6UTRWK4L2C6",
+          "name": "Chorizo",
+          "price": "1398"
+        },
+        {
+          "id": "NCHTRTS3NB5ARAFOVW3B5UHM",
+          "name": "Carnitas",
+          "price": "1398"
+        },
+        {
+          "id": "NMSK2KEC3WERGSAYJSSKI3YY",
+          "name": "Chicken breast",
+          "price": "1398"
+        },
+        {
+          "id": "A6PE2AZSFW2VSJUAM4HEGDW7",
+          "name": "Mix.(campechano)Asada,Fajita, Chorizo and pineapple",
+          "price": "1398"
+        }
+      ]
+    }
+  ],
+  "Drinks": [
+    {
+      "id": "LPB4VJRFMR46CSNZN3MDSWCV",
+      "name": "FRESH HOME-MADE WATER",
+      "description": "Fresh home made juice, choose from: \n-Watermelon\n-Cantaloupe\n-Pineapple\n-Horchata\n-Cucumber \n-Lime\n-Jamaica\n-Tamarind",
+      "category": "Drinks",
+      "variations": [
+        {
+          "id": "QZRE7CUQ3R647HYLWMECQXUW",
+          "name": "Watermelon",
+          "price": "553"
+        },
+        {
+          "id": "VWON252MJNJCPP74BFA5EAOC",
+          "name": "Cantaloupe",
+          "price": "553"
+        },
+        {
+          "id": "Y2B4M7PVY5YTHVWWKUCOGLLC",
+          "name": "Pineapple",
+          "price": "553"
+        },
+        {
+          "id": "3FNYWKGCZFGKWFL4JPXQCUF4",
+          "name": "Horchata",
+          "price": "553"
+        },
+        {
+          "id": "PPJHOF4UFASVDYAABQW3G6L4",
+          "name": "Cucumber",
+          "price": "553"
+        },
+        {
+          "id": "T4LPEAXKYOZD7XP2BDMFADX2",
+          "name": "Lime",
+          "price": "553"
+        },
+        {
+          "id": "ROC3WMISFO4PWNKOOJRGXMR3",
+          "name": "Jamaica",
+          "price": "553"
+        },
+        {
+          "id": "Z6L4RDLRT6NLK2FS7BOAKVM5",
+          "name": "Tamarind",
+          "price": "553"
+        }
+      ]
+    },
+    {
+      "id": "FZ3RHZCKCLOC4XLE34ZVSMDD",
+      "name": "Pepsi Fountain Drink",
+      "description": "Pepsi product fountain drinks",
+      "category": "Drinks",
+      "variations": [
+        {
+          "id": "7CNQ24MQDZIN4JA4WP66ESMC",
+          "name": "Pepsi",
+          "price": "277"
+        },
+        {
+          "id": "UBIWAXS3MIYDPVEUAZPHNLLX",
+          "name": "Sierra Mist",
+          "price": "277"
+        },
+        {
+          "id": "IBER6V76PHVDMIBJRVBLIWYJ",
+          "name": "Dr. Pepper",
+          "price": "277"
+        },
+        {
+          "id": "UPH3EJUEPOM7IPO2RYIRVB4K",
+          "name": "Mountain Dew",
+          "price": "277"
+        },
+        {
+          "id": "52CBYNRNVW2JQ4ZCFTTTJF4H",
+          "name": "Diet Pepsi",
+          "price": "277"
+        }
+      ]
+    }
+  ]
+}
+Handling SPEECH_UPDATE
+Handling CONVERSATION_UPDATE
+Conversation update received: [
+  {
+    "role": "system",
+    "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+    "time": 1729664368201,
+    "secondsFromStart": 0
+  },
+  {
+    "role": "bot",
+    "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+    "time": 1729664369994,
+    "endTime": 1729664372914,
+    "secondsFromStart": 1.4399999,
+    "duration": 2920,
+    "source": ""
+  },
+  {
+    "role": "bot",
+    "message": "Can I assist you with your order today?",
+    "time": 1729664373074,
+    "endTime": 1729664374754,
+    "secondsFromStart": 4.52,
+    "duration": 1680,
+    "source": ""
+  },
+  {
+    "role": "user",
+    "message": "Thank you",
+    "time": 1729664376994,
+    "endTime": 1729664377494,
+    "secondsFromStart": 8.44,
+    "duration": 500
+  },
+  {
+    "toolCalls": [
+      {
+        "id": "call_SEWAoamvlTHmrQGRX2WdovSe",
+        "type": "function",
+        "function": {
+          "name": "fetchMenu",
+          "arguments": "{}"
+        }
+      }
+    ],
+    "role": "tool_calls",
+    "message": "",
+    "time": 1729664381898,
+    "secondsFromStart": 10.243
+  },
+  {
+    "role": "tool_call_result",
+    "time": 1729664382842,
+    "secondsFromStart": 11.187,
+    "name": "fetchMenu",
+    "result": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]}],\"Drinks\":[{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Drinks\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWWKUCOGLLC\",\"name\":\"Pineapple\",\"price\":\"553\"},{\"id\":\"3FNYWKGCZFGKWFL4JPXQCUF4\",\"name\":\"Horchata\",\"price\":\"553\"},{\"id\":\"PPJHOF4UFASVDYAABQW3G6L4\",\"name\":\"Cucumber\",\"price\":\"553\"},{\"id\":\"T4LPEAXKYOZD7XP2BDMFADX2\",\"name\":\"Lime\",\"price\":\"553\"},{\"id\":\"ROC3WMISFO4PWNKOOJRGXMR3\",\"name\":\"Jamaica\",\"price\":\"553\"},{\"id\":\"Z6L4RDLRT6NLK2FS7BOAKVM5\",\"name\":\"Tamarind\",\"price\":\"553\"}]},{\"id\":\"FZ3RHZCKCLOC4XLE34ZVSMDD\",\"name\":\"Pepsi Fountain Drink\",\"description\":\"Pepsi product fountain drinks\",\"category\":\"Drinks\",\"variations\":[{\"id\":\"7CNQ24MQDZIN4JA4WP66ESMC\",\"name\":\"Pepsi\",\"price\":\"277\"},{\"id\":\"UBIWAXS3MIYDPVEUAZPHNLLX\",\"name\":\"Sierra Mist\",\"price\":\"277\"},{\"id\":\"IBER6V76PHVDMIBJRVBLIWYJ\",\"name\":\"Dr. Pepper\",\"price\":\"277\"},{\"id\":\"UPH3EJUEPOM7IPO2RYIRVB4K\",\"name\":\"Mountain Dew\",\"price\":\"277\"},{\"id\":\"52CBYNRNVW2JQ4ZCFTTTJF4H\",\"name\":\"Diet Pepsi\",\"price\":\"277\"}]}]}",
+    "toolCallId": "call_SEWAoamvlTHmrQGRX2WdovSe"
+  }
+]
+Handling CONVERSATION_UPDATE
+Conversation update received: [
+  {
+    "role": "system",
+    "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+    "time": 1729664368201,
+    "secondsFromStart": 0
+  },
+  {
+    "role": "bot",
+    "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+    "time": 1729664369994,
+    "endTime": 1729664372914,
+    "secondsFromStart": 1.4399999,
+    "duration": 2920,
+    "source": ""
+  },
+  {
+    "role": "bot",
+    "message": "Can I assist you with your order today?",
+    "time": 1729664373074,
+    "endTime": 1729664374754,
+    "secondsFromStart": 4.52,
+    "duration": 1680,
+    "source": ""
+  },
+  {
+    "role": "user",
+    "message": "Thank you",
+    "time": 1729664376994,
+    "endTime": 1729664377494,
+    "secondsFromStart": 8.44,
+    "duration": 500
+  },
+  {
+    "toolCalls": [
+      {
+        "id": "call_SEWAoamvlTHmrQGRX2WdovSe",
+        "type": "function",
+        "function": {
+          "name": "fetchMenu",
+          "arguments": "{}"
+        }
+      }
+    ],
+    "role": "tool_calls",
+    "message": "",
+    "time": 1729664381898,
+    "secondsFromStart": 10.243
+  },
+  {
+    "role": "tool_call_result",
+    "time": 1729664382842,
+    "secondsFromStart": 11.187,
+    "name": "fetchMenu",
+    "result": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]}],\"Drinks\":[{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Drinks\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWWKUCOGLLC\",\"name\":\"Pineapple\",\"price\":\"553\"},{\"id\":\"3FNYWKGCZFGKWFL4JPXQCUF4\",\"name\":\"Horchata\",\"price\":\"553\"},{\"id\":\"PPJHOF4UFASVDYAABQW3G6L4\",\"name\":\"Cucumber\",\"price\":\"553\"},{\"id\":\"T4LPEAXKYOZD7XP2BDMFADX2\",\"name\":\"Lime\",\"price\":\"553\"},{\"id\":\"ROC3WMISFO4PWNKOOJRGXMR3\",\"name\":\"Jamaica\",\"price\":\"553\"},{\"id\":\"Z6L4RDLRT6NLK2FS7BOAKVM5\",\"name\":\"Tamarind\",\"price\":\"553\"}]},{\"id\":\"FZ3RHZCKCLOC4XLE34ZVSMDD\",\"name\":\"Pepsi Fountain Drink\",\"description\":\"Pepsi product fountain drinks\",\"category\":\"Drinks\",\"variations\":[{\"id\":\"7CNQ24MQDZIN4JA4WP66ESMC\",\"name\":\"Pepsi\",\"price\":\"277\"},{\"id\":\"UBIWAXS3MIYDPVEUAZPHNLLX\",\"name\":\"Sierra Mist\",\"price\":\"277\"},{\"id\":\"IBER6V76PHVDMIBJRVBLIWYJ\",\"name\":\"Dr. Pepper\",\"price\":\"277\"},{\"id\":\"UPH3EJUEPOM7IPO2RYIRVB4K\",\"name\":\"Mountain Dew\",\"price\":\"277\"},{\"id\":\"52CBYNRNVW2JQ4ZCFTTTJF4H\",\"name\":\"Diet Pepsi\",\"price\":\"277\"}]}]}",
+    "toolCallId": "call_SEWAoamvlTHmrQGRX2WdovSe"
+  },
+  {
+    "role": "bot",
+    "message": "Hold on a sec.",
+    "time": 1729664379934,
+    "endTime": 1729664380984,
+    "secondsFromStart": 11.38,
+    "duration": 1050,
+    "source": ""
+  }
+]
+Handling SPEECH_UPDATE
+Handling CONVERSATION_UPDATE
+Conversation update received: [
+  {
+    "role": "system",
+    "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+    "time": 1729664368201,
+    "secondsFromStart": 0
+  },
+  {
+    "role": "bot",
+    "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+    "time": 1729664369994,
+    "endTime": 1729664372914,
+    "secondsFromStart": 1.4399999,
+    "duration": 2920,
+    "source": ""
+  },
+  {
+    "role": "bot",
+    "message": "Can I assist you with your order today?",
+    "time": 1729664373074,
+    "endTime": 1729664374754,
+    "secondsFromStart": 4.52,
+    "duration": 1680,
+    "source": ""
+  },
+  {
+    "role": "user",
+    "message": "Thank you",
+    "time": 1729664376994,
+    "endTime": 1729664377494,
+    "secondsFromStart": 8.44,
+    "duration": 500
+  },
+  {
+    "toolCalls": [
+      {
+        "id": "call_SEWAoamvlTHmrQGRX2WdovSe",
+        "type": "function",
+        "function": {
+          "name": "fetchMenu",
+          "arguments": "{}"
+        }
+      }
+    ],
+    "role": "tool_calls",
+    "message": "",
+    "time": 1729664381898,
+    "secondsFromStart": 10.243
+  },
+  {
+    "role": "tool_call_result",
+    "time": 1729664382842,
+    "secondsFromStart": 11.187,
+    "name": "fetchMenu",
+    "result": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]}],\"Drinks\":[{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Drinks\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWWKUCOGLLC\",\"name\":\"Pineapple\",\"price\":\"553\"},{\"id\":\"3FNYWKGCZFGKWFL4JPXQCUF4\",\"name\":\"Horchata\",\"price\":\"553\"},{\"id\":\"PPJHOF4UFASVDYAABQW3G6L4\",\"name\":\"Cucumber\",\"price\":\"553\"},{\"id\":\"T4LPEAXKYOZD7XP2BDMFADX2\",\"name\":\"Lime\",\"price\":\"553\"},{\"id\":\"ROC3WMISFO4PWNKOOJRGXMR3\",\"name\":\"Jamaica\",\"price\":\"553\"},{\"id\":\"Z6L4RDLRT6NLK2FS7BOAKVM5\",\"name\":\"Tamarind\",\"price\":\"553\"}]},{\"id\":\"FZ3RHZCKCLOC4XLE34ZVSMDD\",\"name\":\"Pepsi Fountain Drink\",\"description\":\"Pepsi product fountain drinks\",\"category\":\"Drinks\",\"variations\":[{\"id\":\"7CNQ24MQDZIN4JA4WP66ESMC\",\"name\":\"Pepsi\",\"price\":\"277\"},{\"id\":\"UBIWAXS3MIYDPVEUAZPHNLLX\",\"name\":\"Sierra Mist\",\"price\":\"277\"},{\"id\":\"IBER6V76PHVDMIBJRVBLIWYJ\",\"name\":\"Dr. Pepper\",\"price\":\"277\"},{\"id\":\"UPH3EJUEPOM7IPO2RYIRVB4K\",\"name\":\"Mountain Dew\",\"price\":\"277\"},{\"id\":\"52CBYNRNVW2JQ4ZCFTTTJF4H\",\"name\":\"Diet Pepsi\",\"price\":\"277\"}]}]}",
+    "toolCallId": "call_SEWAoamvlTHmrQGRX2WdovSe"
+  },
+  {
+    "role": "bot",
+    "message": "Hold on a sec.",
+    "time": 1729664379934,
+    "endTime": 1729664380984,
+    "secondsFromStart": 11.38,
+    "duration": 1050,
+    "source": ""
+  },
+  {
+    "role": "user",
+    "message": "Main menu, please.",
+    "time": 1729664381304,
+    "endTime": 1729664382174,
+    "secondsFromStart": 12.75,
+    "duration": 870
+  }
+]
+Handling SPEECH_UPDATE
+Handling SPEECH_UPDATE
+Handling CONVERSATION_UPDATE
+Conversation update received: [
+  {
+    "role": "system",
+    "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+    "time": 1729664368201,
+    "secondsFromStart": 0
+  },
+  {
+    "role": "bot",
+    "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+    "time": 1729664369994,
+    "endTime": 1729664372914,
+    "secondsFromStart": 1.4399999,
+    "duration": 2920,
+    "source": ""
+  },
+  {
+    "role": "bot",
+    "message": "Can I assist you with your order today?",
+    "time": 1729664373074,
+    "endTime": 1729664374754,
+    "secondsFromStart": 4.52,
+    "duration": 1680,
+    "source": ""
+  },
+  {
+    "role": "user",
+    "message": "Thank you",
+    "time": 1729664376994,
+    "endTime": 1729664377494,
+    "secondsFromStart": 8.44,
+    "duration": 500
+  },
+  {
+    "toolCalls": [
+      {
+        "id": "call_SEWAoamvlTHmrQGRX2WdovSe",
+        "type": "function",
+        "function": {
+          "name": "fetchMenu",
+          "arguments": "{}"
+        }
+      }
+    ],
+    "role": "tool_calls",
+    "message": "",
+    "time": 1729664381898,
+    "secondsFromStart": 10.243
+  },
+  {
+    "role": "tool_call_result",
+    "time": 1729664382842,
+    "secondsFromStart": 11.187,
+    "name": "fetchMenu",
+    "result": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]}],\"Drinks\":[{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Drinks\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWWKUCOGLLC\",\"name\":\"Pineapple\",\"price\":\"553\"},{\"id\":\"3FNYWKGCZFGKWFL4JPXQCUF4\",\"name\":\"Horchata\",\"price\":\"553\"},{\"id\":\"PPJHOF4UFASVDYAABQW3G6L4\",\"name\":\"Cucumber\",\"price\":\"553\"},{\"id\":\"T4LPEAXKYOZD7XP2BDMFADX2\",\"name\":\"Lime\",\"price\":\"553\"},{\"id\":\"ROC3WMISFO4PWNKOOJRGXMR3\",\"name\":\"Jamaica\",\"price\":\"553\"},{\"id\":\"Z6L4RDLRT6NLK2FS7BOAKVM5\",\"name\":\"Tamarind\",\"price\":\"553\"}]},{\"id\":\"FZ3RHZCKCLOC4XLE34ZVSMDD\",\"name\":\"Pepsi Fountain Drink\",\"description\":\"Pepsi product fountain drinks\",\"category\":\"Drinks\",\"variations\":[{\"id\":\"7CNQ24MQDZIN4JA4WP66ESMC\",\"name\":\"Pepsi\",\"price\":\"277\"},{\"id\":\"UBIWAXS3MIYDPVEUAZPHNLLX\",\"name\":\"Sierra Mist\",\"price\":\"277\"},{\"id\":\"IBER6V76PHVDMIBJRVBLIWYJ\",\"name\":\"Dr. Pepper\",\"price\":\"277\"},{\"id\":\"UPH3EJUEPOM7IPO2RYIRVB4K\",\"name\":\"Mountain Dew\",\"price\":\"277\"},{\"id\":\"52CBYNRNVW2JQ4ZCFTTTJF4H\",\"name\":\"Diet Pepsi\",\"price\":\"277\"}]}]}",
+    "toolCallId": "call_SEWAoamvlTHmrQGRX2WdovSe"
+  },
+  {
+    "role": "bot",
+    "message": "Hold on a sec.",
+    "time": 1729664379934,
+    "endTime": 1729664380984,
+    "secondsFromStart": 11.38,
+    "duration": 1050,
+    "source": ""
+  },
+  {
+    "role": "user",
+    "message": "Main menu, please.",
+    "time": 1729664381304,
+    "endTime": 1729664382174,
+    "secondsFromStart": 12.75,
+    "duration": 870
+  },
+  {
+    "role": "bot",
+    "message": "Here are some items from our main menu.",
+    "time": 1729664383384,
+    "endTime": 1729664385444,
+    "secondsFromStart": 14.83,
+    "duration": 2060,
+    "source": ""
+  }
+]
+Handling CONVERSATION_UPDATE
+Conversation update received: [
+  {
+    "role": "system",
+    "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+    "time": 1729664368201,
+    "secondsFromStart": 0
+  },
+  {
+    "role": "bot",
+    "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+    "time": 1729664369994,
+    "endTime": 1729664372914,
+    "secondsFromStart": 1.4399999,
+    "duration": 2920,
+    "source": ""
+  },
+  {
+    "role": "bot",
+    "message": "Can I assist you with your order today?",
+    "time": 1729664373074,
+    "endTime": 1729664374754,
+    "secondsFromStart": 4.52,
+    "duration": 1680,
+    "source": ""
+  },
+  {
+    "role": "user",
+    "message": "Thank you",
+    "time": 1729664376994,
+    "endTime": 1729664377494,
+    "secondsFromStart": 8.44,
+    "duration": 500
+  },
+  {
+    "toolCalls": [
+      {
+        "id": "call_SEWAoamvlTHmrQGRX2WdovSe",
+        "type": "function",
+        "function": {
+          "name": "fetchMenu",
+          "arguments": "{}"
+        }
+      }
+    ],
+    "role": "tool_calls",
+    "message": "",
+    "time": 1729664381898,
+    "secondsFromStart": 10.243
+  },
+  {
+    "role": "tool_call_result",
+    "time": 1729664382842,
+    "secondsFromStart": 11.187,
+    "name": "fetchMenu",
+    "result": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]}],\"Drinks\":[{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Drinks\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWWKUCOGLLC\",\"name\":\"Pineapple\",\"price\":\"553\"},{\"id\":\"3FNYWKGCZFGKWFL4JPXQCUF4\",\"name\":\"Horchata\",\"price\":\"553\"},{\"id\":\"PPJHOF4UFASVDYAABQW3G6L4\",\"name\":\"Cucumber\",\"price\":\"553\"},{\"id\":\"T4LPEAXKYOZD7XP2BDMFADX2\",\"name\":\"Lime\",\"price\":\"553\"},{\"id\":\"ROC3WMISFO4PWNKOOJRGXMR3\",\"name\":\"Jamaica\",\"price\":\"553\"},{\"id\":\"Z6L4RDLRT6NLK2FS7BOAKVM5\",\"name\":\"Tamarind\",\"price\":\"553\"}]},{\"id\":\"FZ3RHZCKCLOC4XLE34ZVSMDD\",\"name\":\"Pepsi Fountain Drink\",\"description\":\"Pepsi product fountain drinks\",\"category\":\"Drinks\",\"variations\":[{\"id\":\"7CNQ24MQDZIN4JA4WP66ESMC\",\"name\":\"Pepsi\",\"price\":\"277\"},{\"id\":\"UBIWAXS3MIYDPVEUAZPHNLLX\",\"name\":\"Sierra Mist\",\"price\":\"277\"},{\"id\":\"IBER6V76PHVDMIBJRVBLIWYJ\",\"name\":\"Dr. Pepper\",\"price\":\"277\"},{\"id\":\"UPH3EJUEPOM7IPO2RYIRVB4K\",\"name\":\"Mountain Dew\",\"price\":\"277\"},{\"id\":\"52CBYNRNVW2JQ4ZCFTTTJF4H\",\"name\":\"Diet Pepsi\",\"price\":\"277\"}]}]}",
+    "toolCallId": "call_SEWAoamvlTHmrQGRX2WdovSe"
+  },
+  {
+    "role": "bot",
+    "message": "Hold on a sec.",
+    "time": 1729664379934,
+    "endTime": 1729664380984,
+    "secondsFromStart": 11.38,
+    "duration": 1050,
+    "source": ""
+  },
+  {
+    "role": "user",
+    "message": "Main menu, please.",
+    "time": 1729664381304,
+    "endTime": 1729664382174,
+    "secondsFromStart": 12.75,
+    "duration": 870
+  },
+  {
+    "role": "bot",
+    "message": "Here are some items from our main menu.",
+    "time": 1729664383384,
+    "endTime": 1729664385444,
+    "secondsFromStart": 14.83,
+    "duration": 2060,
+    "source": ""
+  },
+  {
+    "role": "bot",
+    "message": "1",
+    "time": 1729664385524,
+    "endTime": 1729664386024,
+    "secondsFromStart": 16.97,
+    "duration": 500,
+    "source": ""
+  }
+]
+Handling CONVERSATION_UPDATE
+Conversation update received: [
+  {
+    "role": "system",
+    "message": "You're an AI assistant who can help users order food from Tic-Taco, a Mexican restaurant. Follow these guidelines:\n\n1. Always start by fetching the menu using the fetchMenu function.\n2. When discussing specific menu items, use the displayImages function to show images to the user.\n3. After displaying an image, inform the user that an image has been shown. Do not read out or mention the image URL.\n4. Make recommendations based on user preferences and answer specific questions about menu items.\n5. Be friendly and helpful in guiding the user through the ordering process.\n6. The menu will be displayed to the user automatically, so you don't need to list all items.\n\nRemember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.",
+    "time": 1729664368201,
+    "secondsFromStart": 0
+  },
+  {
+    "role": "bot",
+    "message": "Welcome to TikTok. I'll fetch our latest menu for you.",
+    "time": 1729664369994,
+    "endTime": 1729664372914,
+    "secondsFromStart": 1.4399999,
+    "duration": 2920,
+    "source": ""
+  },
+  {
+    "role": "bot",
+    "message": "Can I assist you with your order today?",
+    "time": 1729664373074,
+    "endTime": 1729664374754,
+    "secondsFromStart": 4.52,
+    "duration": 1680,
+    "source": ""
+  },
+  {
+    "role": "user",
+    "message": "Thank you",
+    "time": 1729664376994,
+    "endTime": 1729664377494,
+    "secondsFromStart": 8.44,
+    "duration": 500
+  },
+  {
+    "toolCalls": [
+      {
+        "id": "call_SEWAoamvlTHmrQGRX2WdovSe",
+        "type": "function",
+        "function": {
+          "name": "fetchMenu",
+          "arguments": "{}"
+        }
+      }
+    ],
+    "role": "tool_calls",
+    "message": "",
+    "time": 1729664381898,
+    "secondsFromStart": 10.243
+  },
+  {
+    "role": "tool_call_result",
+    "time": 1729664382842,
+    "secondsFromStart": 11.187,
+    "name": "fetchMenu",
+    "result": "{\"Starters\":[{\"id\":\"W5ZOQ7UZJAXSULOV6JWOQ67X\",\"name\":\"FAJITA NACHOS. CORN, CHIPS, JALAPEÑO,SOUR CREAM N FAJITA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"QA5SYNIXSGUCCCBAD7UYZIOD\",\"name\":\"Regular\",\"price\":\"1295\"}]},{\"id\":\"GH22DVXWKTUWAHWSXCZLWBHR\",\"name\":\"CHIPS N SALSA\",\"description\":\"\",\"category\":\"Starters\",\"variations\":[{\"id\":\"PVZ4ALETB2QT74QRNWTWMBWL\",\"name\":\"Regular\",\"price\":\"450\"}]}],\"Main Menu\":[{\"id\":\"YHBZOKEYMJM6CTROIKYOPDC5\",\"name\":\"PIZZADILLA\",\"description\":\"3 Flour tortillas of 10\\\" , Red onions, cilantro, sour cream and traditional green spicy sauce.\\n Choose:\\n-Barbacoa(res) newwwww!!!!!!!!!\\n-Al Pastor\\n-Birria\\n-Asada\\n-chicken breast\\n-Mix (campechano)-Asada, Red fajita, Mexican sausage and Pineapple.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"F7NBU2PAIWASHLDV5JSZH6CF\",\"name\":\"Regular\",\"price\":\"2399\"}]},{\"id\":\"PMFSN5Q7XEVVY5FZ2QLQC3QD\",\"name\":\"QUESABIRRIA PLATE\",\"description\":\"order comes with 3 Quesabirria, Lamb/consome, red onions, cilantro and lime.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"23QTUPAIWA2OVHYEYJGSGCQO\",\"name\":\"Regular\",\"price\":\"1398\"}]},{\"id\":\"6LFR4ZTCL5W7EAWQLCKQDUIO\",\"name\":\"FLAUTAS\",\"description\":\"4 Chicken Flautas, lettuce, cheese, sour cream, rice and beans.\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"MNM4ZODN3BKGCFEOWRBAM4NV\",\"name\":\"Regular\",\"price\":\"1175\"}]},{\"id\":\"3FOXJE52K7KENLKBRMS5JXAT\",\"name\":\"SINGLE TACO\",\"description\":\"\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"VWSFPUNBD2GD3JFGD6ZC3GUC\",\"name\":\"Al Pastor\",\"price\":\"450\"},{\"id\":\"RNC3TKPDYWSWOUHDEAML2WTX\",\"name\":\"Barbacoa\",\"price\":\"450\"},{\"id\":\"VNC2AAUGKRIS7L3N6AOOWMHO\",\"name\":\"Suadero\",\"price\":\"450\"},{\"id\":\"CRCXPVFWEQY4CTQQUKKQLWH7\",\"name\":\"Asada\",\"price\":\"450\"},{\"id\":\"YCLERQE5L235UM24JPTB5NJB\",\"name\":\"Red fajita\",\"price\":\"450\"},{\"id\":\"RL56XY444TWTNJVY4I5YLAUY\",\"name\":\"Pork/Ribs\",\"price\":\"450\"},{\"id\":\"ILJPF3PEPTIPCPWQVTBV6NTQ\",\"name\":\"Chorizo\",\"price\":\"450\"},{\"id\":\"CMW6PC5H5FVGLOGH3N5NFDX5\",\"name\":\"Carnitas\",\"price\":\"450\"},{\"id\":\"DRYZHIZL7W54IC6ZSAQ6KW25\",\"name\":\"Chicken breast\",\"price\":\"450\"},{\"id\":\"2NLF6BXZKUAPRT3RCX3QEFBG\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"450\"}]},{\"id\":\"GTHOODPM6ETIR7SXYSOPXNIR\",\"name\":\"TIC-TACO HOUSE SPECIAL\",\"description\":\"Order of 3 corn tortilla tacos, cilantro, onions, rice and beans. Flour tortilla available for extra charge\",\"category\":\"Main Menu\",\"variations\":[{\"id\":\"3LOW26JIGJ5MZ52ZTN6KG6XS\",\"name\":\"Al Pastor\",\"price\":\"1398\"},{\"id\":\"2ID3USBCR7CDDFTQVP3OCACT\",\"name\":\"Barbacoa\",\"price\":\"1398\"},{\"id\":\"J66LHOHRX4H4IREP7KJBKYT3\",\"name\":\"Suadero\",\"price\":\"1398\"},{\"id\":\"KU77GYKBABX2SUCGSR3NIFZ2\",\"name\":\"Asada\",\"price\":\"1398\"},{\"id\":\"NPHAU3QFNNZR2W3TG4PKXOTV\",\"name\":\"Red fajita\",\"price\":\"1398\"},{\"id\":\"GJJCPVDPJGJDPEBVKUSAWR6K\",\"name\":\"Pork/Ribs\",\"price\":\"1398\"},{\"id\":\"ZE2LU4SH7ZKVS6UTRWK4L2C6\",\"name\":\"Chorizo\",\"price\":\"1398\"},{\"id\":\"NCHTRTS3NB5ARAFOVW3B5UHM\",\"name\":\"Carnitas\",\"price\":\"1398\"},{\"id\":\"NMSK2KEC3WERGSAYJSSKI3YY\",\"name\":\"Chicken breast\",\"price\":\"1398\"},{\"id\":\"A6PE2AZSFW2VSJUAM4HEGDW7\",\"name\":\"Mix.(campechano)Asada,Fajita, Chorizo and pineapple\",\"price\":\"1398\"}]}],\"Drinks\":[{\"id\":\"LPB4VJRFMR46CSNZN3MDSWCV\",\"name\":\"FRESH HOME-MADE WATER\",\"description\":\"Fresh home made juice, choose from: \\n-Watermelon\\n-Cantaloupe\\n-Pineapple\\n-Horchata\\n-Cucumber \\n-Lime\\n-Jamaica\\n-Tamarind\",\"category\":\"Drinks\",\"variations\":[{\"id\":\"QZRE7CUQ3R647HYLWMECQXUW\",\"name\":\"Watermelon\",\"price\":\"553\"},{\"id\":\"VWON252MJNJCPP74BFA5EAOC\",\"name\":\"Cantaloupe\",\"price\":\"553\"},{\"id\":\"Y2B4M7PVY5YTHVWWKUCOGLLC\",\"name\":\"Pineapple\",\"price\":\"553\"},{\"id\":\"3FNYWKGCZFGKWFL4JPXQCUF4\",\"name\":\"Horchata\",\"price\":\"553\"},{\"id\":\"PPJHOF4UFASVDYAABQW3G6L4\",\"name\":\"Cucumber\",\"price\":\"553\"},{\"id\":\"T4LPEAXKYOZD7XP2BDMFADX2\",\"name\":\"Lime\",\"price\":\"553\"},{\"id\":\"ROC3WMISFO4PWNKOOJRGXMR3\",\"name\":\"Jamaica\",\"price\":\"553\"},{\"id\":\"Z6L4RDLRT6NLK2FS7BOAKVM5\",\"name\":\"Tamarind\",\"price\":\"553\"}]},{\"id\":\"FZ3RHZCKCLOC4XLE34ZVSMDD\",\"name\":\"Pepsi Fountain Drink\",\"description\":\"Pepsi product fountain drinks\",\"category\":\"Drinks\",\"variations\":[{\"id\":\"7CNQ24MQDZIN4JA4WP66ESMC\",\"name\":\"Pepsi\",\"price\":\"277\"},{\"id\":\"UBIWAXS3MIYDPVEUAZPHNLLX\",\"name\":\"Sierra Mist\",\"price\":\"277\"},{\"id\":\"IBER6V76PHVDMIBJRVBLIWYJ\",\"name\":\"Dr. Pepper\",\"price\":\"277\"},{\"id\":\"UPH3EJUEPOM7IPO2RYIRVB4K\",\"name\":\"Mountain Dew\",\"price\":\"277\"},{\"id\":\"52CBYNRNVW2JQ4ZCFTTTJF4H\",\"name\":\"Diet Pepsi\",\"price\":\"277\"}]}]}",
+    "toolCallId": "call_SEWAoamvlTHmrQGRX2WdovSe"
+  },
+  {
+    "role": "bot",
+    "message": "Hold on a sec.",
+    "time": 1729664379934,
+    "endTime": 1729664380984,
+    "secondsFromStart": 11.38,
+    "duration": 1050,
+    "source": ""
+  },
+  {
+    "role": "user",
+    "message": "Main menu, please.",
+    "time": 1729664381304,
+    "endTime": 1729664382174,
+    "secondsFromStart": 12.75,
+    "duration": 870
+  },
+  {
+    "role": "bot",
+    "message": "Here are some items from our main menu.",
+    "time": 1729664383384,
+    "endTime": 1729664385444,
+    "secondsFromStart": 14.83,
+    "duration": 2060,
+    "source": ""
+  },
+  {
+    "role": "bot",
+    "message": "1",
+    "time": 1729664385524,
+    "endTime": 1729664386024,
+    "secondsFromStart": 16.97,
+    "duration": 500,
+    "source": ""
+  },
+  {
+    "role": "bot",
+    "message": "Pizzadella.",
+    "time": 1729664386274,
+    "endTime": 1729664386774,
+    "secondsFromStart": 17.72,
+    "duration": 500,
+    "source": ""
+  }
+]
+Handling STATUS_UPDATE
+Call status updated to: ended
+Call has ended

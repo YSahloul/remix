@@ -105,6 +105,45 @@ async function handleToolCall(toolCall: ToolCall, bindings: Bindings): Promise<T
           };
         }
 
+      case 'updateOrderNotes':
+        try {
+          let action: string;
+          let item: { name: string; quantity: number; notes?: string } | undefined;
+
+          if (typeof toolCall.function.arguments === 'string') {
+            const args = JSON.parse(toolCall.function.arguments);
+            action = args.action;
+            item = args.item;
+          } else if (typeof toolCall.function.arguments === 'object' && toolCall.function.arguments !== null) {
+            action = toolCall.function.arguments.action;
+            item = toolCall.function.arguments.item;
+          } else {
+            throw new Error('Invalid arguments for updateOrderNotes');
+          }
+
+          console.log("Updating order notes:", { action, item });
+          
+          // Here, you would typically update the order notes in your backend or database
+          // For this example, we'll just return a success message
+          const result = {
+            success: true,
+            message: `Order notes updated: ${action} ${item ? item.name : ''}`,
+          };
+
+          return {
+            name: toolCall.function.name,
+            toolCallId: toolCall.id,
+            result: JSON.stringify(result)
+          };
+        } catch (error) {
+          console.error(`Error in updateOrderNotes:`, error);
+          return {
+            name: toolCall.function.name,
+            toolCallId: toolCall.id,
+            error: error instanceof Error ? error.message : 'Error updating order notes'
+          };
+        }
+
       default:
         return {
           name: toolCall.function.name,

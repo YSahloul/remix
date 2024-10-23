@@ -1,8 +1,7 @@
-import { useState, useEffect } from "react";
-import { assistant } from "~/assistants/assistant";
-import type Vapi from "@vapi-ai/web";
-import { Message, TranscriptMessage, MessageTypeEnum, TranscriptMessageTypeEnum } from "~/types/conversation.type";
-import { getVapi } from "~/lib/vapi.sdk";
+import { useCallback } from 'react';
+import { assistant } from '~/assistants/assistant';
+import { getVapi } from '~/lib/vapi.sdk';
+import { useVapiContext } from '~/contexts/VapiContext';
 
 export enum CALL_STATUS {
   INACTIVE = "inactive",
@@ -11,117 +10,44 @@ export enum CALL_STATUS {
 }
 
 export function useVapi() {
-  const [isSpeechActive, setIsSpeechActive] = useState(false);
-  const [callStatus, setCallStatus] = useState<CALL_STATUS>(CALL_STATUS.INACTIVE);
-  const [messages, setMessages] = useState<Message[]>([]);
-  const [activeTranscript, setActiveTranscript] = useState<TranscriptMessage | null>(null);
-  const [audioLevel, setAudioLevel] = useState(0);
+  const { state, dispatch } = useVapiContext();
 
-  useEffect(() => {
+  const start = useCallback(async () => {
     const vapi = getVapi();
     if (!vapi) {
       console.error("Vapi instance not initialized");
       return;
     }
-
-    const onSpeechStart = () => setIsSpeechActive(true);
-    const onSpeechEnd = () => {
-      console.log("Speech has ended");
-      setIsSpeechActive(false);
-    };
-
-    const onCallStartHandler = () => {
-      console.log("Call has started");
-      setCallStatus(CALL_STATUS.ACTIVE);
-    };
-
-    const onCallEnd = () => {
-      console.log("Call has stopped");
-      setCallStatus(CALL_STATUS.INACTIVE);
-    };
-
-    const onVolumeLevel = (volume: number) => {
-      setAudioLevel(volume);
-    };
-
-    const onMessageUpdate = (message: Message) => {
-      console.log("message", message);
-      if (
-        message.type === MessageTypeEnum.TRANSCRIPT &&
-        message.transcriptType === TranscriptMessageTypeEnum.PARTIAL
-      ) {
-        setActiveTranscript(message);
-      } else {
-        setMessages((prev) => [...prev, message]);
-        setActiveTranscript(null);
-      }
-    };
-
-    const onError = (e: any) => {
-      setCallStatus(CALL_STATUS.INACTIVE);
-      console.error(e);
-    };
-
-    vapi.on("speech-start", onSpeechStart);
-    vapi.on("speech-end", onSpeechEnd);
-    vapi.on("call-start", onCallStartHandler);
-    vapi.on("call-end", onCallEnd);
-    vapi.on("volume-level", onVolumeLevel);
-    vapi.on("message", onMessageUpdate);
-    vapi.on("error", onError);
-
-    return () => {
-      vapi.off("speech-start", onSpeechStart);
-      vapi.off("speech-end", onSpeechEnd);
-      vapi.off("call-start", onCallStartHandler);
-      vapi.off("call-end", onCallEnd);
-      vapi.off("volume-level", onVolumeLevel);
-      vapi.off("message", onMessageUpdate);
-      vapi.off("error", onError);
-    };
-  }, []);
-
-  const start = async () => {
-    const vapi = getVapi();
-    if (!vapi) {
-      console.error("Vapi instance not initialized");
-      return;
-    }
-    setCallStatus(CALL_STATUS.LOADING);
+    dispatch({ type: 'SET_CALL_STATUS', payload: CALL_STATUS.LOADING });
     try {
       const response = await vapi.start(assistant);
       console.log("call started successfully", response);
     } catch (error) {
       console.error("Failed to start call:", error);
-      setCallStatus(CALL_STATUS.INACTIVE);
-      // Optionally, you could set an error state here to display to the user
+      dispatch({ type: 'SET_CALL_STATUS', payload: CALL_STATUS.INACTIVE });
     }
-  };
+  }, [dispatch]);
 
-  const stop = () => {
+  const stop = useCallback(() => {
     const vapi = getVapi();
     if (!vapi) {
       console.error("Vapi instance not initialized");
       return;
     }
-    setCallStatus(CALL_STATUS.LOADING);
+    dispatch({ type: 'SET_CALL_STATUS', payload: CALL_STATUS.LOADING });
     vapi.stop();
-  };
+  }, [dispatch]);
 
-  const toggleCall = () => {
-    if (callStatus == CALL_STATUS.ACTIVE) {
+  const toggleCall = useCallback(() => {
+    if (state.callStatus === CALL_STATUS.ACTIVE) {
       stop();
     } else {
       start();
     }
-  };
+  }, [state.callStatus, start, stop]);
 
   return {
-    isSpeechActive,
-    callStatus,
-    audioLevel,
-    activeTranscript,
-    messages,
+    ...state,
     start,
     stop,
     toggleCall,

@@ -39,7 +39,10 @@ export default defineConfig(({ mode }) => {
       'process.env.VAPI_WEB_TOKEN': JSON.stringify(env.VAPI_WEB_TOKEN),
     },
     optimizeDeps: {
-      include: ['tailwind-merge', 'clsx', 'class-variance-authority']
+      include: ['tailwind-merge', 'clsx', 'class-variance-authority', 'three', 'simplex-noise']
+    },
+    ssr: {
+      noExternal: ['three', 'simplex-noise']
     }
   }
 });

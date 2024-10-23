@@ -18,6 +18,7 @@
     "@remix-run/cloudflare": "^2.13.1",
     "@remix-run/cloudflare-pages": "^2.13.1",
     "@remix-run/react": "^2.13.1",
+    "@types/three": "^0.169.0",
     "@vapi-ai/web": "^2.1.6",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
@@ -27,8 +28,10 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-error-boundary": "^4.1.2",
+    "simplex-noise": "^4.0.3",
     "tailwind-merge": "^2.5.4",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "three": "^0.169.0"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20241018.0",

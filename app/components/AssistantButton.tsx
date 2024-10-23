@@ -1,18 +1,39 @@
-import { CALL_STATUS, useVapi } from "~/hooks/useVapi";
+import React from "react";
+import { useVapiContext } from "~/contexts/VapiContext";
+import { CALL_STATUS } from "~/hooks/useVapi";
 import { Loader2, Mic, Square } from "lucide-react";
 import { Button } from "~/components/ui/button";
+import { getVapi, startVapiCall } from "~/lib/vapi.sdk";
 
-const AssistantButton = ({
-  toggleCall,
-  callStatus,
-  audioLevel = 0,
-}: Partial<ReturnType<typeof useVapi>>) => {
+const AssistantButton = () => {
+  const { state, dispatch } = useVapiContext();
+  const { callStatus, audioLevel } = state;
+
+  const toggleCall = async () => {
+    const vapi = getVapi();
+    if (callStatus === CALL_STATUS.ACTIVE) {
+      dispatch({ type: 'SET_CALL_STATUS', payload: CALL_STATUS.INACTIVE });
+      vapi.stop();
+    } else {
+      dispatch({ type: 'SET_CALL_STATUS', payload: CALL_STATUS.LOADING });
+      try {
+        await startVapiCall();
+        // The call status will be updated by the event listener in VapiProvider
+      } catch (error) {
+        console.error("Failed to start call:", error);
+        dispatch({ type: 'SET_CALL_STATUS', payload: CALL_STATUS.INACTIVE });
+        alert("Failed to start call. Please check your microphone permissions and try again.");
+      }
+    }
+  };
+
   const color =
     callStatus === CALL_STATUS.ACTIVE
       ? "red"
       : callStatus === CALL_STATUS.LOADING
       ? "orange"
       : "green";
+
   const buttonStyle = {
     borderRadius: "50%",
     width: "50px",

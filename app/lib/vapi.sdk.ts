@@ -1,30 +1,69 @@
 import Vapi from "@vapi-ai/web";
+import { assistant } from "~/assistants/assistant";
 
 let vapiInstance: Vapi | null = null;
 
-export function initializeVapi(token: string) {
-  if (typeof window !== "undefined" && !vapiInstance) {
-    vapiInstance = new Vapi(token);
-  }
-  return vapiInstance;
+// Use the correct VapiEventNames from the Vapi class
+export type VapiEventNames =
+  | 'call-end'
+  | 'call-start'
+  | 'volume-level'
+  | 'speech-start'
+  | 'speech-end'
+  | 'message'
+  | 'video'
+  | 'error';
+
+export function initializeVapi(token: string): Promise<Vapi> {
+  console.log("initializeVapi called with token:", token);
+  return new Promise((resolve, reject) => {
+    if (typeof window !== "undefined") {
+      console.log("Window is defined, creating Vapi instance");
+      try {
+        vapiInstance = new Vapi(token);
+        console.log("Vapi instance created successfully");
+        
+        // Set up event listeners for debugging
+        vapiInstance.on('error', (error) => console.error('Vapi error:', error));
+        vapiInstance.on('call-end', () => console.log('Call ended'));
+        vapiInstance.on('call-start', () => console.log('Call started'));
+        
+        resolve(vapiInstance);
+      } catch (error) {
+        console.error("Error creating Vapi instance:", error);
+        reject(error);
+      }
+    } else {
+      console.error("Window is undefined. Cannot initialize Vapi.");
+      reject(new Error("Window is undefined. Cannot initialize Vapi."));
+    }
+  });
 }
 
 export function getVapi() {
   if (!vapiInstance) {
-    console.warn("Vapi not initialized. Call initializeVapi() first.");
-    return null;
+    throw new Error("Vapi not initialized. Call initializeVapi() first.");
   }
   return vapiInstance;
 }
 
-// Define our own event names type based on Vapi's methods
-type VapiEventNames = Parameters<Vapi['on']>[0];
+export async function startVapiCall() {
+  const vapi = getVapi();
+  try {
+    console.log("Starting Vapi call with assistant:", assistant);
+    await vapi.start(assistant);
+    console.log("Vapi call started successfully");
+  } catch (error) {
+    console.error("Error starting Vapi call:", error);
+    throw error;
+  }
+}
 
 export const vapi = {
   get instance() {
     return getVapi();
   },
-  on(event: VapiEventNames, callback: Parameters<Vapi['on']>[1]) {
+  on(event: VapiEventNames, callback: (...args: any[]) => void) {
     const instance = this.instance;
     if (instance) {
       instance.on(event, callback);
@@ -32,7 +71,7 @@ export const vapi = {
       console.warn(`Cannot add listener for '${event}'. Vapi instance is null.`);
     }
   },
-  off(event: VapiEventNames, callback: Parameters<Vapi['off']>[1]) {
+  off(event: VapiEventNames, callback: (...args: any[]) => void) {
     const instance = this.instance;
     if (instance) {
       instance.off(event, callback);
@@ -40,10 +79,10 @@ export const vapi = {
       console.warn(`Cannot remove listener for '${event}'. Vapi instance is null.`);
     }
   },
-  send(message: Parameters<Vapi['send']>[0]) {
+  send(message: string) {
     const instance = this.instance;
     if (instance) {
-      instance.send(message);
+      instance.send({ type: 'say', message });
     } else {
       console.warn('Cannot send message. Vapi instance is null.');
     }

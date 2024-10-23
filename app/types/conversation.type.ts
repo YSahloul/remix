@@ -3,6 +3,7 @@ export enum MessageTypeEnum {
   TOOL_CALLS = "tool-calls",
   TOOL_CALL_RESULT = "tool-call-result",
   ADD_MESSAGE = "add-message",
+  ASSISTANT_MESSAGE = "assistant-message",
 }
 
 export enum MessageRoleEnum {
@@ -53,6 +54,12 @@ export interface ToolCallResultMessage extends BaseMessage {
   toolCallId: string;
 }
 
+export interface AssistantMessage extends BaseMessage {
+  type: MessageTypeEnum.ASSISTANT_MESSAGE;
+  role: MessageRoleEnum.ASSISTANT;
+  content: string;
+}
+
 export interface AddMessage extends BaseMessage {
   type: MessageTypeEnum.ADD_MESSAGE;
   message: {
@@ -65,4 +72,5 @@ export type Message =
   | TranscriptMessage
   | ToolCallsMessage
   | ToolCallResultMessage
-  | AddMessage;
+  | AddMessage
+  | AssistantMessage;

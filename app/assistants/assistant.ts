@@ -17,8 +17,9 @@ export const assistant: CreateAssistantDTO = {
 4. Make recommendations based on user preferences and answer specific questions about menu items.
 5. Be friendly and helpful in guiding the user through the ordering process.
 6. The menu will be displayed to the user automatically, so you don't need to list all items.
+7. Use the updateOrderNotes function to keep track of the customer's current order as they make selections or changes.
 
-Remember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information.`
+Remember to use the displayImages function whenever you're discussing a specific menu item to enhance the user experience with visual information. Keep the order notes updated throughout the conversation.`
       }
     ],
     tools: [
@@ -90,6 +91,32 @@ Remember to use the displayImages function whenever you're discussing a specific
               },
             },
             required: ["category"],
+          },
+        },
+      },
+      {
+        type: "function",
+        function: {
+          name: "updateOrderNotes",
+          description: "Updates the customer's current order notes.",
+          parameters: {
+            type: "object",
+            properties: {
+              action: {
+                type: "string",
+                description: "The action to perform on the order notes. Must be one of: add, remove, update, clear"
+              },
+              item: {
+                type: "object",
+                properties: {
+                  name: { type: "string" },
+                  quantity: { type: "number" },
+                  notes: { type: "string" }
+                },
+                required: ["name", "quantity"]
+              }
+            },
+            required: ["action"]
           },
         },
       },
