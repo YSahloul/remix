@@ -1,0 +1,1285 @@
+ The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu
+value @ unknown
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(435)
+ Processing message 434: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.6666666666666667
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.6666666666666667
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.9416916964151697
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.9416916964151697
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.06666666666666667
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.06666666666666667
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.8392836078627782
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.8392836078627782
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.6666666666666667
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.6666666666666667
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(436)
+ Processing message 435: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.6666666666666667
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.6666666666666667
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.05941672920891639
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.05941672920891639
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(437)
+ Processing message 436: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.009416916964151693
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.009416916964151693
+ VapiProvider: Rendering children
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(438)
+ Processing message 437: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.0006666666666666668
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.0006666666666666668
+ VapiProvider: Rendering children
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(439)
+ Processing message 438: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiProvider: Speech ended
+ VapiReducer: Processing action SET_SPEECH_ACTIVE false
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_SPEECH_ACTIVE false
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(440)
+ Processing message 439: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(441)
+ Processing message 440: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(442)
+ Processing message 441: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(443)
+ Processing message 442: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(444)
+ Processing message 443: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(446)
+ Processing message 444: Object
+ Processing message 445: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiProvider: Received message Object
+ VapiProvider: Received message Object
+ VapiProvider: Received message Object
+ VapiProvider: Received message Object
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(452)
+ Processing message 446: Object
+ Processing message 447: Object
+ Processing message 448: Object
+ Processing message 449: Object
+ Processing message 450: Object
+ Processing message 451: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(453)
+ Processing message 452: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(454)
+ Processing message 453: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiProvider: Received message Object
+ VapiProvider: Received message Object
+ VapiProvider: Received message Object
+ VapiProvider: Received message Object
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(459)
+ Processing message 454: Object
+ Processing message 455: Object
+ Processing message 456: Object
+ Processing message 457: Object
+ Processing message 458: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(460)
+ Processing message 459: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(461)
+ Processing message 460: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(462)
+ Processing message 461: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(463)
+ Processing message 462: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(464)
+ Processing message 463: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(465)
+ Processing message 464: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(466)
+ Processing message 465: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(467)
+ Processing message 466: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(468)
+ Processing message 467: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.0004719638562560916
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.0004719638562560916
+ VapiProvider: Rendering children
+ VapiProvider: Speech started
+ VapiReducer: Processing action SET_SPEECH_ACTIVE true
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_SPEECH_ACTIVE true
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.8392836078627782
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.8392836078627782
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.0026540478036899823
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.0026540478036899823
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.21081851067789195
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.21081851067789195
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.0007480123028679753
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.0007480123028679753
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(470)
+ Processing message 468: Object
+ Processing message 469: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.0005295521564828549
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.0005295521564828549
+ VapiProvider: Rendering children
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(471)
+ Processing message 470: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.07480123028679757
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.07480123028679757
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 1
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 1
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 1
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 1
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 1
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 1
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.9416916964151697
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.9416916964151697
+ VapiProvider: Rendering children
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(472)
+ Processing message 471: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.2654047803689982
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.2654047803689982
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.026540478036899823
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.026540478036899823
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.3341248224181815
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.3341248224181815
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.8392836078627782
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.8392836078627782
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.47196385625609205
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.47196385625609205
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.3341248224181815
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.3341248224181815
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.8392836078627782
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.8392836078627782
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiProvider: Received message Object
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE Object
+ VapiReducer: Adding new message Object
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: Array(473)
+ Processing message 472: Object
+ Processing selectCategory call from message 19
+ selectCategory call found: Object
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: Object
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.5295521564828543
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.5295521564828543
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.3341248224181815
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.3341248224181815
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.3748942167935661
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.3748942167935661
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.047196385625609204
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.047196385625609204
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.8392836078627782
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.8392836078627782
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.10565954616407423
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.10565954616407423
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiProvider: Received message {type: 'transcript', role: 'assistant', transcriptType: 'partial', transcript: "If you need anything else, don't hesitate to reach out. Have a great day."}
+ VapiReducer: Processing action ADD_MESSAGE {type: 'transcript', role: 'assistant', transcriptType: 'partial', transcript: "If you need anything else, don't hesitate to reach out. Have a great day."}
+ VapiReducer: Adding new message {type: 'transcript', role: 'assistant', transcriptType: 'partial', transcript: "If you need anything else, don't hesitate to reach out. Have a great day."}
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE {type: 'transcript', role: 'assistant', transcriptType: 'partial', transcript: "If you need anything else, don't hesitate to reach out. Have a great day."}
+ VapiReducer: Adding new message {type: 'transcript', role: 'assistant', transcriptType: 'partial', transcript: "If you need anything else, don't hesitate to reach out. Have a great day."}
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: (474) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, …]
+ Processing message 473: {type: 'transcript', role: 'assistant', transcriptType: 'partial', transcript: "If you need anything else, don't hesitate to reach out. Have a great day."}
+ Processing selectCategory call from message 19
+ selectCategory call found: {id: 'call_JnCMZNma5fOYF6kzJ8tvm5hD', type: 'function', function: {…}}
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: {id: 'call_uhH8rZDo47IwkX3in1diiikU', type: 'function', function: {…}}
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.23654225948905036
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.23654225948905036
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiProvider: Received message {type: 'speech-update', status: 'stopped', role: 'assistant'}
+ VapiReducer: Processing action ADD_MESSAGE {type: 'speech-update', status: 'stopped', role: 'assistant'}
+ VapiReducer: Adding new message {type: 'speech-update', status: 'stopped', role: 'assistant'}
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE {type: 'speech-update', status: 'stopped', role: 'assistant'}
+ VapiReducer: Adding new message {type: 'speech-update', status: 'stopped', role: 'assistant'}
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: (475) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, …]
+ Processing message 474: {type: 'speech-update', status: 'stopped', role: 'assistant'}
+ Processing selectCategory call from message 19
+ selectCategory call found: {id: 'call_JnCMZNma5fOYF6kzJ8tvm5hD', type: 'function', function: {…}}
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: {id: 'call_uhH8rZDo47IwkX3in1diiikU', type: 'function', function: {…}}
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.0006666666666666668
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0.0006666666666666668
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ VapiProvider: Received message {type: 'transcript', role: 'assistant', transcriptType: 'final', transcript: "If you need anything else, don't hesitate to reach out. Have a great day."}
+ VapiReducer: Processing action ADD_MESSAGE {type: 'transcript', role: 'assistant', transcriptType: 'final', transcript: "If you need anything else, don't hesitate to reach out. Have a great day."}
+ VapiReducer: Adding new message {type: 'transcript', role: 'assistant', transcriptType: 'final', transcript: "If you need anything else, don't hesitate to reach out. Have a great day."}
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE {type: 'transcript', role: 'assistant', transcriptType: 'final', transcript: "If you need anything else, don't hesitate to reach out. Have a great day."}
+ VapiReducer: Adding new message {type: 'transcript', role: 'assistant', transcriptType: 'final', transcript: "If you need anything else, don't hesitate to reach out. Have a great day."}
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Display: Rendering
+ Display: Current selected category: Main Menu
+ Processing new messages. Current state: (476) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, …]
+ Processing message 475: {type: 'transcript', role: 'assistant', transcriptType: 'final', transcript: "If you need anything else, don't hesitate to reach out. Have a great day."}
+ Processing selectCategory call from message 19
+ selectCategory call found: {id: 'call_JnCMZNma5fOYF6kzJ8tvm5hD', type: 'function', function: {…}}
+ Setting selected category: Starters
+ Processing selectCategory call from message 223
+ selectCategory call found: {id: 'call_uhH8rZDo47IwkX3in1diiikU', type: 'function', function: {…}}
+ Setting selected category: Main Menu
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiProvider: Received message {type: 'conversation-update', conversation: Array(31), messages: Array(49), messagesOpenAIFormatted: Array(0)}
+ VapiReducer: Processing action ADD_MESSAGE {type: 'conversation-update', conversation: Array(31), messages: Array(49), messagesOpenAIFormatted: Array(0)}
+ VapiReducer: Adding new message {type: 'conversation-update', conversation: Array(31), messages: Array(49), messagesOpenAIFormatted: Array(0)}
+ VapiProvider: Rendering children
+ VapiReducer: Processing action ADD_MESSAGE {type: 'conversation-update', conversation: Array(31), messages: Array(49), messagesOpenAIFormatted: Array(0)}
+ VapiReducer: Adding new message {type: 'conversation-update', conversation: Array(31), messages: Array(49), messagesOpenAIFormatted: Array(0)}
+ VapiProvider: Rendering children
+ Assistant: Rendering Assistant component
+ Assistant: Rendering Assistant component
+ Display: Rendering
+Display.tsx:21 Display: Current selected category: Main Menu
+Display.tsx:18 Display: Rendering
+Display.tsx:21 Display: Current selected category: Main Menu
+VoiceControlledInfo.tsx:61 Processing new messages. Current state: (477) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, …]
+VoiceControlledInfo.tsx:64 Processing message 476: {type: 'conversation-update', conversation: Array(31), messages: Array(49), messagesOpenAIFormatted: Array(0)}
+MenuContext.tsx:53 Processing selectCategory call from message 19
+MenuContext.tsx:21 selectCategory call found: {id: 'call_JnCMZNma5fOYF6kzJ8tvm5hD', type: 'function', function: {…}}
+MenuContext.tsx:34 Setting selected category: Starters
+MenuContext.tsx:53 Processing selectCategory call from message 223
+MenuContext.tsx:21 selectCategory call found: {id: 'call_uhH8rZDo47IwkX3in1diiikU', type: 'function', function: {…}}
+MenuContext.tsx:34 Setting selected category: Main Menu
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:83 VapiProvider: Speech ended
+VapiContext.tsx:34 VapiReducer: Processing action SET_SPEECH_ACTIVE false
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_SPEECH_ACTIVE false
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+Assistant.tsx:33 Assistant: Rendering Assistant component
+Assistant.tsx:33 Assistant: Rendering Assistant component
+Display.tsx:18 Display: Rendering
+Display.tsx:21 Display: Current selected category: Main Menu
+Display.tsx:18 Display: Rendering
+Display.tsx:21 Display: Current selected category: Main Menu
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+VapiContext.tsx:117 VapiProvider: Rendering children
+VapiContext.tsx:34 VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children
+ VapiReducer: Processing action SET_AUDIO_LEVEL 0
+ VapiProvider: Rendering children

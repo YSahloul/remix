@@ -1,11 +1,19 @@
-import type { LinksFunction } from "@remix-run/cloudflare";
+import type { LinksFunction, LoaderFunction } from "@remix-run/cloudflare";
 import {
   Links,
   Meta,
   Outlet,
   Scripts,
   ScrollRestoration,
+  useLoaderData,
 } from "@remix-run/react";
+import { json } from "@remix-run/cloudflare";
+import { useEffect, useState } from "react";
+import { VapiProvider } from "~/contexts/VapiContext";
+import { MenuProvider } from "~/contexts/MenuContext";
+import { initializeVapi } from "~/lib/vapi.sdk";
+import { fetchMenu } from "~/tools/fetchMenu";
+import { CategorizedMenu } from "~/types/menu.types";
 
 import "./tailwind.css";
 
@@ -22,7 +30,36 @@ export const links: LinksFunction = () => [
   },
 ];
 
-export function Layout({ children }: { children: React.ReactNode }) {
+type LoaderData = {
+  vapiWebToken: string;
+  initialMenu: CategorizedMenu;
+};
+
+export const loader: LoaderFunction = async ({ context }) => {
+  const env = context.cloudflare.env as Env;
+  const initialMenu = await fetchMenu(env);
+  return json<LoaderData>({
+    vapiWebToken: env.VAPI_WEB_TOKEN,
+    initialMenu,
+  });
+};
+
+export default function App() {
+  console.log("Root: App component rendering");
+  const { vapiWebToken, initialMenu } = useLoaderData<LoaderData>();
+  const [isVapiReady, setIsVapiReady] = useState(false);
+
+  useEffect(() => {
+    console.log("Root: useEffect running, initializing Vapi");
+    const vapi = initializeVapi(vapiWebToken);
+    if (vapi) {
+      console.log("Root: Vapi initialized successfully");
+      setIsVapiReady(true);
+    } else {
+      console.error("Root: Failed to initialize Vapi");
+    }
+  }, [vapiWebToken]);
+
   return (
     <html lang="en">
       <head>
@@ -32,14 +69,14 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Links />
       </head>
       <body>
-        {children}
+        <VapiProvider>
+          <MenuProvider initialMenu={initialMenu}>
+            {isVapiReady ? <Outlet /> : <div>Loading Vapi... Please wait.</div>}
+          </MenuProvider>
+        </VapiProvider>
         <ScrollRestoration />
         <Scripts />
       </body>
     </html>
   );
-}
-
-export default function App() {
-  return <Outlet />;
 }

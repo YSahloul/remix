@@ -1,0 +1,24 @@
+{
+    "files.exclude": {
+        //  "**/node_modules": true,
+        "**/.cache": true,
+        "**/build": true,
+        "**/public/build": true,
+        "**/.env": true,
+        "**/.DS_Store": true,
+        "**/npm-debug.log*": true,
+        "**/yarn-debug.log*": true,
+        "**/yarn-error.log*": true
+    },
+    "search.exclude": {
+        // "**/node_modules": true,
+        "**/bower_components": true,
+        "**/.cache": true,
+        "**/build": true,
+        "**/public/build": true
+    },
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    }
+}

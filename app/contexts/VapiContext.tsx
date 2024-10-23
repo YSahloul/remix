@@ -1,7 +1,8 @@
-import React, { createContext, useContext, useReducer, useEffect } from 'react';
+import React, { createContext, useContext, useReducer, useEffect, useMemo } from 'react';
 import { Message, TranscriptMessage } from '~/types/conversation.type';
-import { getVapi, VapiEventNames } from '~/lib/vapi.sdk';
+import { vapi } from '~/lib/vapi.sdk';
 import { CALL_STATUS } from '~/hooks/useVapi';
+import { MenuType } from '~/types/menu.types';
 
 type VapiState = {
   isSpeechActive: boolean;
@@ -9,6 +10,7 @@ type VapiState = {
   messages: Message[];
   activeTranscript: TranscriptMessage | null;
   audioLevel: number;
+  menu: MenuType | null;
 };
 
 type VapiAction =
@@ -16,7 +18,8 @@ type VapiAction =
   | { type: 'SET_CALL_STATUS'; payload: CALL_STATUS }
   | { type: 'ADD_MESSAGE'; payload: Message }
   | { type: 'SET_ACTIVE_TRANSCRIPT'; payload: TranscriptMessage | null }
-  | { type: 'SET_AUDIO_LEVEL'; payload: number };
+  | { type: 'SET_AUDIO_LEVEL'; payload: number }
+  | { type: 'SET_MENU'; payload: MenuType };
 
 const initialState: VapiState = {
   isSpeechActive: false,
@@ -24,12 +27,8 @@ const initialState: VapiState = {
   messages: [],
   activeTranscript: null,
   audioLevel: 0,
+  menu: null,
 };
-
-const VapiContext = createContext<{
-  state: VapiState;
-  dispatch: React.Dispatch<VapiAction>;
-} | undefined>(undefined);
 
 function vapiReducer(state: VapiState, action: VapiAction): VapiState {
   switch (action.type) {
@@ -43,61 +42,45 @@ function vapiReducer(state: VapiState, action: VapiAction): VapiState {
       return { ...state, activeTranscript: action.payload };
     case 'SET_AUDIO_LEVEL':
       return { ...state, audioLevel: action.payload };
+    case 'SET_MENU':
+      return { ...state, menu: action.payload };
     default:
       return state;
   }
 }
 
-export function VapiProvider({ children }: { children: React.ReactNode }) {
+const VapiContext = createContext<{
+  state: VapiState;
+  dispatch: React.Dispatch<VapiAction>;
+} | undefined>(undefined);
+
+export const VapiProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [state, dispatch] = useReducer(vapiReducer, initialState);
-  console.log("VapiProvider initialized");
 
   useEffect(() => {
-    const vapi = getVapi();
-    console.log("Vapi instance in VapiProvider:", vapi);
-
-    const eventListeners: Partial<Record<VapiEventNames, (...args: any[]) => void>> = {
-      'speech-start': () => dispatch({ type: 'SET_SPEECH_ACTIVE', payload: true }),
-      'speech-end': () => dispatch({ type: 'SET_SPEECH_ACTIVE', payload: false }),
-      message: (message) => dispatch({ type: 'ADD_MESSAGE', payload: message }),
-      'volume-level': (level) => dispatch({ type: 'SET_AUDIO_LEVEL', payload: level }),
-      'call-start': () => {
-        console.log("Call started");
-        dispatch({ type: 'SET_CALL_STATUS', payload: CALL_STATUS.ACTIVE });
-      },
-      'call-end': () => {
-        console.log("Call ended");
-        dispatch({ type: 'SET_CALL_STATUS', payload: CALL_STATUS.INACTIVE });
-      },
-      error: (error) => {
-        console.error('Vapi error:', error);
-        dispatch({ type: 'SET_CALL_STATUS', payload: CALL_STATUS.INACTIVE });
-      },
-    };
-
-    // Set up event listeners
-    Object.entries(eventListeners).forEach(([event, listener]) => {
-      if (listener) {
-        vapi.on(event as VapiEventNames, listener);
-      }
+    vapi.on('volume-level', (level: number) => {
+      dispatch({ type: 'SET_AUDIO_LEVEL', payload: level });
     });
+    vapi.on('speech-start', () => dispatch({ type: 'SET_SPEECH_ACTIVE', payload: true }));
+    vapi.on('speech-end', () => dispatch({ type: 'SET_SPEECH_ACTIVE', payload: false }));
+    vapi.on('message', (message) => dispatch({ type: 'ADD_MESSAGE', payload: message }));
 
     return () => {
-      // Clean up event listeners
-      Object.entries(eventListeners).forEach(([event, listener]) => {
-        if (listener) {
-          vapi.off(event as VapiEventNames, listener);
-        }
-      });
+      vapi.removeAllListeners('volume-level');
+      vapi.removeAllListeners('speech-start');
+      vapi.removeAllListeners('speech-end');
+      vapi.removeAllListeners('message');
     };
   }, []);
 
+  const contextValue = useMemo(() => ({ state, dispatch }), [state]);
+
   return (
-    <VapiContext.Provider value={{ state, dispatch }}>
+    <VapiContext.Provider value={contextValue}>
       {children}
     </VapiContext.Provider>
   );
-}
+};
 
 export function useVapiContext() {
   const context = useContext(VapiContext);

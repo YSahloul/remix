@@ -128,7 +128,11 @@ async function handleToolCall(toolCall: ToolCall, bindings: Bindings): Promise<T
           const result = {
             success: true,
             message: `Order notes updated: ${action} ${item ? item.name : ''}`,
+            action,
+            item
           };
+
+          console.log("updateOrderNotes result:", result);
 
           return {
             name: toolCall.function.name,
